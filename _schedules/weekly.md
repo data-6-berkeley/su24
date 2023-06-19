@@ -65,12 +65,12 @@ schedule:
         location: Online
   - name: Friday
     events:
-      - name: Coffee Chats
+      - name: Coffee Chats (James)
         start: 9:10 AM
         end: 10:00 AM
         location: Caffe Strada
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
-        location: 105 & 205 Dwinelle
+        location: 215 & 229 Dwinelle
 ---
