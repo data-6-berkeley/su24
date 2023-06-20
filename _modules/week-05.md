@@ -13,7 +13,7 @@ Aug 1
 Aug 2
 : **22**{: .label} File Formats, Dictionaries
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
-: *Optional Reading:* [SPR 23](https://cs.stanford.edu/people/nick/py/python-dict.html); [CP 2.4.3](http://composingprograms.com/pages/24-mutable-data.html#dictionaries)
+<!--: *Optional Reading:* [SPR 23](https://cs.stanford.edu/people/nick/py/python-dict.html); [CP 2.4.3](http://composingprograms.com/pages/24-mutable-data.html#dictionaries)-->
 : **Lab 9**{: .label .label-lab} Dictionaries
 
 Aug 3
