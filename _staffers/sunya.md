@@ -2,7 +2,7 @@
 name: Sunya Abbasi
 pronouns: she/her
 role: uGSI
-bio: Hey, I'm Sunya! I'm a junior majoring in Data Science from Redwood City, CA. This summer I'm looking forward to traveling, spending time with friends, and tutoring Data 6!
+bio: Hi everyone! I'm a rising senior from the Bay majoring in Data Science and minoring in Demography. Looking forward to getting to know you all over the Summer!
 email: sunya@berkeley.edu
 #website:
 photo: sunya.png
