@@ -41,14 +41,15 @@ schedule:
         location: Evans 41
   - name: Wednesday
     events:
+    - name: Office Hours
+        start: 9:00 AM
+        end: 10:00 AM
+        location: Social Sciences 126
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
         location: 212 Wheeler
-      - name: Office Hours
-        start: 3:00 PM
-        end: 5:00 PM
-        location: Evans 41
+      
   - name: Thursday
     events:
       - name: Lecture
@@ -60,9 +61,9 @@ schedule:
         end: 12:00 PM
         location: 212 Wheeler
       - name: Office Hours
-        start: 4:10 PM
-        end: 5:00 PM
-        location: Online
+        start: 5:30 PM
+        end: 7:00 PM
+        location: Warren 101B
   - name: Friday
     events:
       - name: Coffee Chats (James)
