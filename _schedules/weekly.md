@@ -20,7 +20,6 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
   - '6:30 PM'
-  - '7:00 PM'
 schedule:
   - name: Monday
     events:
@@ -64,10 +63,10 @@ schedule:
         location: Warren 101B
   - name: Friday
     events:
-      - name: Coffee Chats (James)
+      - name: Coffee Chats
         start: 9:10 AM
         end: 10:00 AM
-        location: Caffe Strada
+        location: Caffe Strada (with James)
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
