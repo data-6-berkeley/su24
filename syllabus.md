@@ -66,7 +66,7 @@ Lecture slides will be posted to the website right before each lecture to allow 
 
 **Office Hours (Optional)**: Wednesdays 9AM-10AM in [Social Sciences](https://www.berkeley.edu/map/?barrows) 126, & Thursdays, 5:30PM-7PM in [Warren](https://www.berkeley.edu/map/?warren) 101B
 
-The full schedule is available on the [Schedule](http://data6.org/su23/schedule) page.
+The full schedule is available on the [Schedule](http://data6.org/su23/schedule/) page.
 
 ## Course Components	&#x1F4D2;
 While this course is designed to fit into a six-week summer session, the pace of Data 6 over the summer is roughly twice as fast as the pace of a 3-unit class in the fall or spring semester. To compensate for the fast pace of the summer, we have more lectures and lab time per week than during the academic year. We do our best to make sure that we spend enough time on each concept, and that the material is approachable for all students. But if you feel like things are going too fast, let us know and we will try to slow down!
@@ -110,7 +110,7 @@ There are 5 homework assignments, which correspond to roughly one per week. In g
 Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable forms of collaboration.
 
 ### Office Hours and Ed
-In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](http://www.data6.org/su23/schedule) for more details about office hours.
+In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](http://www.data6.org/su23/schedule/) for more details about office hours.
 
 While office hours are not mandatory, we **highly recommend** attending them regularly. Most students find that office hours help them to work through assignments, and find other students who are working on the same problems. Attending Data 6 office hours is also a great way to familiarize yourself with the office hours environment for a lot of data science and computer science classes, where you will have to rely on working with peers due to a limited number of available TAs.
 
