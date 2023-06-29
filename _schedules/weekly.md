@@ -18,6 +18,9 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
 schedule:
   - name: Monday
     events:
@@ -56,9 +59,9 @@ schedule:
         end: 12:00 PM
         location: 212 Wheeler
       - name: Office Hours
-        start: 4:10 PM
-        end: 5:00 PM
-        location: Online
+        start: 5:30 PM
+        end: 7:00 PM
+        location: Warren 101B
   - name: Friday
     events:
       - name: Coffee Chats (James)
