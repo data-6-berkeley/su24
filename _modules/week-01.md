@@ -27,7 +27,7 @@ Jul 6
   : [Slides](https://docs.google.com/presentation/d/1zYxB6SHvsde-0-h-UdW5zZGPes3P3Y8QNNw-Q_mFhOs/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec05%2Flec05.ipynb) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec05%2Flec05-blank.ipynb)
 : *Optional Reading:* [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)
 : **Homework 1**{: .label .label-homework} Introduction to Python &nbsp;**Due Jul 13 @ 11:00PM**
-: **Survey**{: .label .label-survey} Weekly Survey 1 &nbsp;**Due Jul 13 @ 11:00PM**
+: **Survey**{: .label .label-survey} [Weekly Survey 1](https://forms.gle/LAZ5JaymFRE7V67g6) &nbsp;**Due Jul 13 @ 11:00PM**
 
 Jul 7
-: **Discussion 1**{: .label .label-discussion} Health Data
+: **Discussion 1**{: .label .label-discussion} Fractions & Health Data
