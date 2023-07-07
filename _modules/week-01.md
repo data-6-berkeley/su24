@@ -30,4 +30,4 @@ Jul 6
 : **Survey**{: .label .label-survey} [Weekly Survey 1](https://forms.gle/LAZ5JaymFRE7V67g6) &nbsp;**Due Jul 13 @ 11:00PM**
 
 Jul 7
-: **Discussion 1**{: .label .label-discussion} Fractions & Health Data
+: **Discussion 1**{: .label .label-discussion} [Fractions & Health Data](https://drive.google.com/file/d/11NQv6h1AyCBMSG_USSI9vxRN2nEFG_dF/view?usp=sharing)
