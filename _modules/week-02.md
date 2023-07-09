@@ -5,7 +5,7 @@ title: Week 2 — Visualizing Data
 Jul 10
 : **6**{: .label} Table Fundamentals
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
-<!--: *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)-->
+: *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
 
 Jul 11
 : **7**{: .label} Introduction to Visualization

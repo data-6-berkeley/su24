@@ -31,4 +31,4 @@ Jul 6
 
 Jul 7
 : **Discussion 1**{: .label .label-discussion} Fractions & Health Data
-  : [Worksheet](https://drive.google.com/file/d/11NQv6h1AyCBMSG_USSI9vxRN2nEFG_dF/view?usp=sharing) &#8226; Solutions
+  : [Worksheet](../assignments/disc01.pdf) &#8226; [Solutions](../assignments/disc01-sols.pdf)
