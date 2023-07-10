@@ -1,11 +1,19 @@
 ---
-title: Week 1 Announcements
-week: 1
-date: 2023-07-05
+title: Week 2 Announcements
+week: 2
+date: 2023-07-10
 ---
 
-* Make sure you can access **[Ed](https://edstem.org/us/courses/39169/discussion/)** and **[Gradescope](https://www.gradescope.com/courses/551324)**, if not email James
-* Office hours start on Thursday
-* Homework 1 will be released on Thursday and due on 7/13 @11pm
+* **Assignments Due**
+    * Homework 1 is due *Thursday, July 13th @ 11 P.M.*
+    * Survey 1 is due *Thursday, July 13th @ 11 P.M.*
+* **Office Hours** take place
+    * Wednesday 9-10 AM @ Wheeler 212
+    * Thursday 5:30-7 PM @ Warren 101BE
+* **Tutoring**
+    * Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSfFwBHs8ziPxf9SNrJR_OsYxbkdBgnlwCx_pmjvXkvkDIBI6A/viewform) for a slot if feel like you would benifit from additional support in a small group
+    * **Due Mon, July 10th @ 9 P.M.**
+* **Quiz 1**
+    * Quiz 1 will take place in class next week on *Monday, July 17th*
 
 {: .fs-5 }
