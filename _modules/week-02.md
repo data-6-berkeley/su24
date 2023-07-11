@@ -9,8 +9,8 @@ Jul 10
 
 Jul 11
 : **7**{: .label} Introduction to Visualization
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
-<!--: *Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)-->
+  : [Slides](https://docs.google.com/presentation/d/1X7R6DOmEjNMa1zGwpdz8W3u5LAmGjPSaR_tfXIZgY8o/edit?usp=sharing)
+: *Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)
 : **Lab 2**{: .label .label-lab} Table Methods and Data Manipulation
 
 Jul 12
