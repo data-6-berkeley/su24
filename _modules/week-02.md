@@ -15,10 +15,10 @@ Jul 11
 
 Jul 12
 : **8**{: .label} Visualizing Categorical Variables
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
-<!--: *Optional Reading:* [CIT 7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html), [FDV 6.1](https://clauswilke.com/dataviz/visualizing-amounts.html#bar-plots)-->
+  : [Slides](https://docs.google.com/presentation/d/1PnTwIT7qfl75PAMRVCSYyYRax8h9sjQadE66i6xMAFo/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec08%2Flec08.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec08%2Flec08-blank.ipynb&branch=main)
+: *Optional Reading:* [CIT 7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html), [FDV 6.1](https://clauswilke.com/dataviz/visualizing-amounts.html#bar-plots)
 : **9**{: .label} Visualizing Numerical Variables
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1k1LQPgYtpB5TJOoBX3DeP7Y7UDCl4GUyEYIjnK7ccIg/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec09%2Flec09.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec09%2Flec09-blank.ipynb&branch=main)
 <!--: *Optional Reading:* [CIT 7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [FDV 7.1](https://clauswilke.com/dataviz/histograms-density-plots.html#visualizing-a-single-distribution)-->
 
 
