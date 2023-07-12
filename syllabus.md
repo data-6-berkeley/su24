@@ -64,7 +64,7 @@ Lecture slides will be posted to the website right before each lecture to allow 
 
 **Discussion**: Fridays, 10AM-12PM in [Dwinelle](https://www.berkeley.edu/map?dwinelle) 215 & 229
 
-**Office Hours (Optional)**: Wednesdays 9AM-10AM in [Social Sciences](https://www.berkeley.edu/map/?barrows) 126, & Thursdays, 5:30PM-7PM in [Warren](https://www.berkeley.edu/map/?warren) 101B
+**Office Hours (Optional)**: Wednesdays 9AM-10AM in [Wheeler] 212, & Thursdays, 5:30PM-7PM in [Warren](https://www.berkeley.edu/map/?warren) 101B
 
 The full schedule is available on the [Schedule](https://data6.org/su23/schedule/) page.
 
