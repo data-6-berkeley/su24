@@ -11,7 +11,7 @@ Jul 11
 : **7**{: .label} Introduction to Visualization
   : [Slides](https://docs.google.com/presentation/d/1X7R6DOmEjNMa1zGwpdz8W3u5LAmGjPSaR_tfXIZgY8o/edit?usp=sharing)
 : *Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)
-: **Lab 2**{: .label .label-lab} Table Methods and Data Manipulation
+: **Lab 2**{: .label .label-lab} [Table Methods and Data Manipulation](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab02%2Flab02.ipynb)
 
 Jul 12
 : **8**{: .label} Visualizing Categorical Variables
