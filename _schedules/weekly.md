@@ -42,7 +42,7 @@ schedule:
       - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: Social Sciences 126
+        location: Wheeler 212
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
