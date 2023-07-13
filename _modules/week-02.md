@@ -27,8 +27,8 @@ Jul 13
   : [Slides](https://docs.google.com/presentation/d/1LvDBgq5eKfdzMp_0kZalIsULuaXwfzqlWG1N0xkb65I/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec10%2Flec10.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec10%2Flec10-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
 : **Lab 3**{: .label .label-lab} [Visualization Methods](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab03%2Flab03.ipynb)
-: **Homework 2**{: .label .label-homework} Table Methods and Data Visualization &nbsp;**Due Jul 20 @ 11:00PM**
-: **Survey**{: .label .label-survey} Weekly Survey 2 &nbsp;**Due Jul 20 @ 11:00PM**
+: **Homework 2**{: .label .label-homework} [Table Methods and Data Visualization](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw02%2Fhw02.ipynb) &nbsp;**Due Jul 20 @ 11:00PM**
+: **Survey**{: .label .label-survey} [Weekly Survey 2](https://forms.gle/NJV4h1V3ksvyQd1Y9) &nbsp;**Due Jul 20 @ 11:00PM**
 
 Jul 14
 : **Discussion 2**{: .label .label-discussion} Data Humanism in Visualization
