@@ -16,20 +16,24 @@ Jul 18
 
 Jul 19
 : **13**{: .label} Functions (I)
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/14mw1l_WgPZfrNqxRK7edpFwT3zvzXFqaQSXM6-N6U2k/edit?usp=sharing) &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec13%2Flec13.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec13%2Flec13-blank.ipynb)-->
 : *Optional Reading:* [CIT 8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html), [PPDS 2.5](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#functions)
 : **14**{: .label} Grouping, Pivoting
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1F7ElwRjladZDsOVEvNyvfDVCZeEGETe8QlXsrIDbyYA/edit?usp=sharing) &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec14%2Flec14.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec14%2Flec14-blank.ipynb)-->
 : *Optional Reading:* [CIT 7.1.3](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html?highlight=group#grouping-categorical-data), [CIT 8.3.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html?highlight=pivot#pivot-tables-rearranging-the-output-of-group), [Table Function Visualizer](http://data8.org/interactive_table_functions/)
 
 Jul 20
 : **15**{: .label} Applying
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1AAQjGX5a9Rw-Odx3aiKcc-gRdJtYAvKSkdWvC4ZAq0g/edit?usp=sharing) &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec15%2Flec15.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec15%2Flec15-blank.ipynb)-->
 : *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Lab 5**{: .label .label-lab} More Table Methods
+<!-- : **Lab 5**{: .label .label-lab} [More Table Methods](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab05%2Flab05.ipynb) -->
 : **Homework 3**{: .label .label-homework} Advanced Table Methods &nbsp;**Due Jul 27 @ 11:00PM**
+<!-- : **Homework 3**{: .label .label-homework} [Advanced Table Methods](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw03%2Fhw03.ipynb) &nbsp;**Due Jul 27 @ 11:00PM**  -->
 : **Survey**{: .label .label-survey} Weekly Survey 3 &nbsp;**Due Jul 27 @ 11:00PM**
 
 Jul 21
 : **Discussion 3**{: .label .label-discussion} Algorithmic Bias
-<!--: *Recommended Reading:* ["Why Algorithms Can Be Racist and Sexist"](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency); ["Dissecting Racial Bias"](https://data6.org/su22/assignments/DissectingRacialBias.pdf)-->
+: *Recommended Reading:* ["Why Algorithms Can Be Racist and Sexist"](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency); ["Dissecting Racial Bias"](https://data6.org/su22/assignments/DissectingRacialBias.pdf)
+
+
