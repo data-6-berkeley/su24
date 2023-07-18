@@ -10,9 +10,9 @@ Jul 17
 
 Jul 18
 : **12**{: .label} Row Methods, Joining Tables
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
-<!--: *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)-->
-: **Lab 4**{: .label .label-lab} Tables
+  : [Slides](https://docs.google.com/presentation/d/10bb3pF0iOGyGI7oUhERGWHR3XeJsVeMM2JjGOvshKTs/edit?usp=sharing) &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec12%2Flec12.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec12%2Flec12-blank.ipynb)-->
+: *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
+: **Lab 4**{: .label .label-lab} [Tables](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab04%2Flab04.ipynb)
 
 Jul 19
 : **13**{: .label} Functions (I)
