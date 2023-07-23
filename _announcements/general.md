@@ -1,7 +1,7 @@
 ---
-title: Week 2 Announcements
-week: 2
-date: 2023-07-10
+title: Week 4 Announcements
+week: 4
+date: 2023-07-24
 ---
 
 * **Assignments Due**
