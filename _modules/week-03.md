@@ -33,7 +33,7 @@ Jul 20
 
 Jul 21
 : **Discussion 3**{: .label .label-discussion} Algorithmic Bias
-  : [Worksheet](https://data6.org/su23/assignments/disc03.pdf)
+  : [Worksheet](https://data6.org/su23/assignments/disc03.pdf) &#8226; [Solutions](https://data6.org/su23/assignments/disc03-sols.pdf)
 : *Recommended Reading:* ["Why Algorithms Can Be Racist and Sexist"](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency); ["Dissecting Racial Bias"](https://data6.org/su22/assignments/DissectingRacialBias.pdf)
 
 
