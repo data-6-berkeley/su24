@@ -14,7 +14,7 @@ Jul 25
 : **18**{: .label} For Loops
   : [Slides](https://docs.google.com/presentation/d/16SN9FqqVPfB0YqAwMNMfJs9Ffp-Gh-SW66QkpAbnP-Y/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec18%2Flec18.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec18%2Flec18-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
-: **Lab 6**{: .label .label-lab} Functions and Control
+: **Lab 6**{: .label .label-lab} [Functions and Control](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab06%2Flab06.ipynb) (**Submit Lab 6 to Gradescope!**)
 
 Jul 26
 : **19**{: .label} Advanced For Loops
