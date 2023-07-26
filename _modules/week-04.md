@@ -18,7 +18,7 @@ Jul 25
 
 Jul 26
 : **19**{: .label} Advanced For Loops
-  : [Slides](#) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec19%2Flec19.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec19%2Flec19-blank.ipynb&branch=main)
+  : [Slides](https://docs.google.com/presentation/d/16lEpNLyslAG3xDmRqwWHbJLXQ0JlFaqc1UTuZKlMpgg/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec19%2Flec19.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec19%2Flec19-blank.ipynb&branch=main)
 : *Optional Reading:* [PPDS 2.1](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#for-loops)
 
 Jul 27
