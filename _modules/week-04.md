@@ -25,7 +25,7 @@ Jul 27
 : **20**{: .label} Maps
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
 <!--: *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)-->
-: **Lab 7**{: .label .label-lab} Iteration
+: **Lab 7**{: .label .label-lab} [Iteration](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab07%2Flab07.ipynb)
 : **Homework 4**{: .label .label-homework} Control, Iteration, and Strings &nbsp;**Due Aug 3 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 3 @ 11:00PM**
 
