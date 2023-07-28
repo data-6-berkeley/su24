@@ -1,14 +1,15 @@
 ---
-title: Week 5 — More Python
+title: Week 5 — Simulation, Files, and Dictionaries
 ---
 
 Jul 31
 : **Quiz**{: .label .label-exam} Quiz 2: Tables, Functions and Loops
-: **21**{: .label} Intro to Web Development
+: **21**{: .label} Randomness, Simulation
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
+<!--: *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)-->
 
 Aug 1
-: **Lab 8**{: .label .label-lab} Creating a Website
+: **Lab 8**{: .label .label-lab} Randomness and Simulation
 
 Aug 2
 : **22**{: .label} File Formats, Dictionaries

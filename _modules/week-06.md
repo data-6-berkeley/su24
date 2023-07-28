@@ -1,17 +1,17 @@
 ---
-title: Week 6 — Simulations and Conclusion
+title: Week 6 — Web Development and Conclusion
 ---
 
 Aug 7
 : **24**{: .label} Fun with Plotly
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
 <!--: *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)-->
-: **25**{: .label} Randomness, Simulation
+: **25**{: .label} Intro to Web Development
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
-<!--: *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)-->
+  
 
 Aug 8
-: **Lab 10**{: .label .label-lab} Randomness and Simulation
+: **Lab 10**{: .label .label-lab} Creating a Website
 
 Aug 9
 : **26**{: .label} Conclusion and Next Steps
