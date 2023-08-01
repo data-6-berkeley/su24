@@ -8,8 +8,8 @@ Jul 31
 
 Aug 1
 : **21**{: .label} Randomness, Simulation
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
-<!--: *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)-->
+  : [Slides](https://docs.google.com/presentation/d/1LgWA-U7L_fHv7ZFt1QfdJgSfs7rubnsyA9JIycn-oLg/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec21%2Flec21.ipynb&branch=main)
+: *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 : **Lab 8**{: .label .label-lab} Randomness and Simulation
 
 Aug 2
