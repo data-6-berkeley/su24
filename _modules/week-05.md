@@ -22,8 +22,8 @@ Aug 3
 : **23**{: .label} Guest Lecture - Human Contexts and Ethics
 : _Prep Work:_ **Explore the [Bay Area Air Quality Management District](https://www.baaqmd.gov/public-data-center) Website**
   <!--: [Slides](#) &#8226; [Code](#)-->
-: **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 9 @ 11:00PM**
-: **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 9 @ 11:00PM**
+: **Homework 5**{: .label .label-homework} [Dictionaries](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw05%2Fhw05.ipynb) &nbsp;**Due Aug 9 @ 11:00PM**
+: **Survey**{: .label .label-survey} [Weekly Survey 5](https://forms.gle/fBwX8JjkkMz1ozrP6) &nbsp;**Due Aug 9 @ 11:00PM**
 
 Aug 4
 : **Discussion 5**{: .label .label-discussion} Human Contexts and Ethics
