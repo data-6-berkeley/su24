@@ -19,7 +19,7 @@ Aug 2
 : **Lab 9**{: .label .label-lab} [Dictionaries](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab09%2Flab09.ipynb)
 
 Aug 3
-: **23**{: .label} Guest Lecture - TBD
+: **23**{: .label} Guest Lecture - Human Contexts and Ethics
   <!--: [Slides](#) &#8226; [Code](#)-->
 : **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 9 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 9 @ 11:00PM**

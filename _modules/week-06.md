@@ -14,11 +14,11 @@ Aug 8
 : **Lab 10**{: .label .label-lab} Creating a Website
 
 Aug 9
-: **26**{: .label} Conclusion and Next Steps
+: **R**{: .label} Final Review
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
 
 Aug 10
-: **R**{: .label} Final Review
+: **26**{: .label} Conclusion and Next Steps
   <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
 
 Aug 11
