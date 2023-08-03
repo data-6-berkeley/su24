@@ -20,6 +20,7 @@ Aug 2
 
 Aug 3
 : **23**{: .label} Guest Lecture - Human Contexts and Ethics
+: _Prep Work:_ **Explore the [Bay Area Air Quality Management District](https://www.baaqmd.gov/public-data-center) Website**
   <!--: [Slides](#) &#8226; [Code](#)-->
 : **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 9 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 9 @ 11:00PM**
