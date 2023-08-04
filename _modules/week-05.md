@@ -21,10 +21,7 @@ Aug 2
 Aug 3
 : **23**{: .label} [Guest Lecture - Human Contexts and Ethics](https://data6.org/su23/assignments/hce-lecture.pdf)
 : _Prep Work:_ **Explore the [Bay Area Air Quality Management District](https://www.baaqmd.gov/public-data-center) Website**
-<<<<<<< Updated upstream
-  <!--: [Slides](#) &#8226; [Code](#)-->
-=======
->>>>>>> Stashed changes
+
 : **Homework 5**{: .label .label-homework} [Dictionaries](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw05%2Fhw05.ipynb) &nbsp;**Due Aug 9 @ 11:00PM**
 : **Survey**{: .label .label-survey} [Weekly Survey 5](https://forms.gle/fBwX8JjkkMz1ozrP6) &nbsp;**Due Aug 9 @ 11:00PM**
 
