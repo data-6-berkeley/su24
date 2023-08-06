@@ -27,4 +27,4 @@ Aug 3
 
 Aug 4
 : **Discussion 5**{: .label .label-discussion} Human Contexts and Ethics
-  : [Worksheet](https://data6.org/su23/assignments/disc05.pdf)
+  : [Worksheet](https://data6.org/su23/assignments/disc05.pdf) &#8226; [Solutions](https://data6.org/su23/assignments/disc05-sols.pdf)
