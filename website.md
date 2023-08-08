@@ -21,7 +21,7 @@ This lab will probably take 2 hours to complete, so buckle in! Course staff are 
 Websites can take a variety of forms, and are created in a variety of ways. On the most basic level, a website consists of pages created in a markup language, like HTML (HyperText Markup Language). If you have ever used “Inspect” or “Inspect Element” on a website (Figure 1), you have probably seen HTML before. It consists of tags that start and end with angle brackets (e.g. `<html>`). Even though HTML doesn’t support more complicated code like if-statements or for loops (HTML technically isn’t even a programming language), when combined with other code it is capable of creating amazingly complex websites.
 
 <figure style="text-align: center">
-<img src="https://data6.org/su22/assets/lab08/fig1.png" style="width:80%; margin:auto; display:block"/>
+<img src="https://data6.org/su23/assets/lab10/fig1.png" style="width:80%; margin:auto; display:block"/>
 Figure 1 - Inspecting HTML on a Website
 </figure>
 
@@ -43,20 +43,20 @@ First you will have to set a GitHub account to allow you to develop and publish 
 
 ## Step 2 — Creating a Blank Website
 
-1. **Create a New Repository.** It may prompt you to do this after verifying your email; if it doesn’t, you can go to [GitHub](https://github.com/) and click the green “New” button. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig2.png" style="width:80%; margin:auto; display:block"/> Figure 2 - Creating a New Repository </figure> <br>
+1. **Create a New Repository.** It may prompt you to do this after verifying your email; if it doesn’t, you can go to [GitHub](https://github.com/) and click the green “New” button. <figure style="text-align: center"> <img src="https://data6.org/su23/assets/lab10/fig2.png" style="width:80%; margin:auto; display:block"/> Figure 2 - Creating a New Repository </figure> <br>
   * A **repository**, or repo for short, is like a folder for a project.
   * You will need to select a name for the repository. You can name the repository whatever you want, but we’d recommend something like `“data-6-website”`, `“[NAME]-website”` or `“portfolio”`
-  * Make sure to select Public and add a `README` file. Overall, your settings should look like this (but with a different username and repo name): <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig3.png" style="width:60%; margin:auto; display:block"/> Figure 3 - Repository Settings </figure> <br>
+  * Make sure to select Public and add a `README` file. Overall, your settings should look like this (but with a different username and repo name): <figure style="text-align: center"> <img src="https://data6.org/su23/assets/lab10/fig3.png" style="width:60%; margin:auto; display:block"/> Figure 3 - Repository Settings </figure> <br>
 2. **Enable GitHub Pages for your Repo.** GitHub Pages is the feature we will use to create our website. Follow these steps:
   * From your repo’s main page, click the “Settings” tab in the top right corner.
   * Click “Pages” in the menu on the left (it should be towards the bottom).
   * Under “Branch”, change “None” to “main”. Click “Save”.
   * Under “Theme Chooser”, click “Choose a theme”. It will allow you to choose one of several themes; pick the one you like the most and click “Select theme”. If you end up not liking your choice, you can always come back to this menu and change the theme, so don’t worry. Note: If you are brought to a page that has you try and edit your file (it may say something like “Edit new file”), just click “Cancel”.
-  * After you follow these steps, your site will be public. You will be shown its URL; it will be in the form `<your github username>.github.io/<your repo name>`. Keep a tab open with your website while working on the rest of the assignment. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig4.png" style="width:90%; margin:auto; display:block"/> Figure 4 - Publishing via GitHub Pages </figure>
+  * After you follow these steps, your site will be public. You will be shown its URL; it will be in the form `<your github username>.github.io/<your repo name>`. Keep a tab open with your website while working on the rest of the assignment. <figure style="text-align: center"> <img src="https://data6.org/su23/assets/lab10/fig4.png" style="width:90%; margin:auto; display:block"/> Figure 4 - Publishing via GitHub Pages </figure>
 
 ## Step 3 — Adding Content
 
-1. Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file `README.md` might not have very much in it. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig5.png" style="width:60%; margin:auto; display:block"/> Figure 5 - Click the Pencil Icon to Edit `README.md` </figure> <br>
+1. Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file `README.md` might not have very much in it. <figure style="text-align: center"> <img src="https://data6.org/su23/assets/lab10/fig5.png" style="width:60%; margin:auto; display:block"/> Figure 5 - Click the Pencil Icon to Edit `README.md` </figure> <br>
 2. The `README.md` file is where you’ll put all of the content for your website (`.md` denotes Markdown). To edit `README.md` (both now and moving forward), you’ll need to click the pencil icon. (In the screenshot above, it’s across from the "README.md" text.)
   * You should be brought to an interface that allows you to edit `README.md`.
   * Under the hood, GitHub Pages uses a library called Jekyll to convert your `README.md` to the standard HTML file format.
@@ -68,7 +68,7 @@ Add a heading at the top of the file using the `#` symbol to give your website a
   * Add more content types (like images or visualizations) (see Step 4 for more details)
 4. Once you’re satisfied with your website content, **scroll down to the bottom of the page, and click “Commit changes”.**
   * You can think of committing as saving your changes.
-  * You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice) <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig6.png" style="width:90%; margin:auto; display:block"/> Figure 6 — Committing Your Changes</figure> <br>
+  * You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice) <figure style="text-align: center"> <img src="https://data6.org/su23/assets/lab10/fig6.png" style="width:90%; margin:auto; display:block"/> Figure 6 — Committing Your Changes</figure> <br>
 5. **After committing, open your website once again** (or refresh the page). The changes will usually take 1-2 minutes to deploy to your website, so be patient!
 
 
@@ -101,7 +101,7 @@ Now that you've added some content to your website, you can go a step further by
     ```html
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     ```
-    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your `README.md` might look something like this: <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig7.png" style="width:90%; margin:auto; display:block"/> Figure 7 — Adding Visualization Code </figure> <br>
+    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your `README.md` might look something like this: <figure style="text-align: center"> <img src="https://data6.org/su23/assets/lab10/fig7.png" style="width:90%; margin:auto; display:block"/> Figure 7 — Adding Visualization Code </figure> <br>
 
 5. **Embed a Tweet, YouTube Video, Song, etc.**
   * A lot of social media platforms allow you to **embed** content from their website into your own website. This embedding usually happens with an `<iframe>`.
