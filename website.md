@@ -110,7 +110,7 @@ Now that you've added some content to your website, you can go a step further by
   * **Songs.** Follow [these](https://developer.spotify.com/documentation/embeds/guides/using-the-iframe-api//) instructions for Spotify and [these](https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web) instructions for Apple Music. Other sites will have similar instructions.
   * **Instagram Posts.** On the Instagram website, click the three dots at the top right of any post, then click “Embed” and then “Copy Embed Code”. Copy the code that appears and paste it somewhere in your README.md (beware, the code may be a little long).
 
-**And voila! You just made your own website!** Congratulations on finishing Lab 8. Feel free to continue to customize your website if you want. It's all up to you!
+**And voila! You just made your own website!** Congratulations on finishing Lab 10. Feel free to continue to customize your website if you want. It's all up to you!
 
 ## Markdown Guide
 Here are a few markdown syntax features that may be helpful while creating your website:
@@ -122,6 +122,10 @@ Here are a few markdown syntax features that may be helpful while creating your 
 | `[TEXT](LINK)` | Hyperlink (the `TEXT` will be displayed, and clicking on it will redirect to the website at `LINK`) | `[Data 6 Website](https://data6.org/su22/)` |
 | `<br>` | Blank Line (adds an empty line) | `<br>` |
 | `<hr>` | Adds a horizontal line through your page (`<hr>` stands for 'horizontal rule') | `<hr>` |
+
+
+## Submission Details
+Please submit the link to your website to the [Gradescope](https://www.gradescope.com/courses/551324) assignment!
 
 <hr>
 
