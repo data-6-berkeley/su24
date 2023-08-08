@@ -11,7 +11,7 @@ Aug 7
   
 
 Aug 8
-: **Lab 10**{: .label .label-lab} Creating a Website
+: **Lab 10**{: .label .label-lab} [Creating a Website](https://data6.org/su23/website/)
 
 Aug 9
 : **R**{: .label} Final Review
