@@ -15,7 +15,7 @@ Aug 8
 
 Aug 9
 : **R**{: .label} Final Review
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1xd9WQJ4E9r5Mo7GG91Yqk7bbacBjuxRvtXAQ7Fx3be0/edit?usp=sharing)
 
 Aug 10
 : **26**{: .label} Conclusion and Next Steps
