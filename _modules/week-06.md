@@ -19,7 +19,9 @@ Aug 9
 
 Aug 10
 : **26**{: .label} Conclusion and Next Steps
-  <!--: [Slides](#) &#8226; [Code](#) &#8226; [Blank Code](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1sbn7dUCgfVwSfp3n8MfWyqPwQwK45K9REgwxV8yuTKs/edit?usp=sharing)
 
 Aug 11
 : **Exam**{: .label .label-exam} Final Exam
+  : ***Main Exam:*** Friday, August 11th @ 11 AM in AAPB 155
+  : ***Alternate Exam:*** Thursday, August 10th @ 4 PM in Evans B6
