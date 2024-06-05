@@ -1,9 +1,8 @@
 ---
-name: Jonathan Ferrari
-pronouns: he/they
+name: Atticus Ginsborg
+pronouns: he/him
 role: Instructor
-bio: Hi, my name is Jonathan, I'm a rising Senior majoring in Data Sci, Cog Sci, and Psych, with a minor in CS. When I'm not teaching or in class, you can usually find me at a cafe around campus, playing video games with friends, or out at a nearby trail hiking! I love to travel; a fun fact about me is that i’ve been to 47 states and 2/3 of the national parks! This is my first time teaching Data 6, though I have previously taught for other courses such as Data 8 and CS 61A. Feel free to reach out anytime, I'm happy to talk about anything, whether it is course related, career or academic related, or anything else! :)
-email: jonathanferrari@berkeley.edu
+bio: Hi everyone! I’m a Senior studying Data Science and Economics. Outside of school I love watching and playing all sports (especially chess), reading, and going on hikes in the Berkeley hills.
 #website:
-photo: jonathan.jpg
+photo: atticus.jpeg
 ---
