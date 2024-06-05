@@ -16,7 +16,7 @@ UC Berkeley, Summer 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 {: .mb-2 }
-**Instructors:** Atticus Ginsborh, Edwin Vargas Navarro
+**Instructors:** Atticus Ginsborg, Edwin Vargas Navarro
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 <!--{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
