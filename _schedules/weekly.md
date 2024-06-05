@@ -26,17 +26,17 @@ schedule:
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
-        location: 212 Wheeler
+        location: 110 SOCS
   - name: Tuesday
     events:
       - name: Lecture
         start: 10:10 AM
         end: 11:00 AM
-        location: 212 Wheeler
+        location: 110 SOCS
       - name: Lab
         start: 11:10 AM
         end: 12:00 PM
-        location: 212 Wheeler
+        location: 110 SOCS
   - name: Wednesday
     events:
       - name: Office Hours
@@ -46,17 +46,17 @@ schedule:
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
-        location: 212 Wheeler
+        location: 110 SOCS
   - name: Thursday
     events:
       - name: Lecture
         start: 10:10 AM
         end: 11:00 AM
-        location: 212 Wheeler
+        location: 110 SOCS
       - name: Lab
         start: 11:10 AM
         end: 12:00 PM
-        location: 212 Wheeler
+        location: 110 SOCS
       - name: Office Hours
         start: 5:30 PM
         end: 7:00 PM
