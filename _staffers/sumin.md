@@ -2,8 +2,8 @@
 name: Su Min
 pronouns: she/her
 role: uGSI
-bio: Hello! I'm a graduating senior from San Ramon, CA studying Data Science and Sociology. I am so excited to meet you all this summer :)
-email: eunicechoi@berkeley.edu
+bio: Hello Hello! I am Su Min! I am a Senior studying Data Science and Sociology. I love animals🐰, nature🌿, and just talking one-on-one with people:)
+email: m.suminpark@berkeley.edu
 #website:
-photo: eunice.jpg
+photo: su-min.jpeg
 ---

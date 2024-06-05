@@ -1,5 +1,6 @@
 ---
 title: Week 1 — Introduction to Python
+status: Inactive
 ---
 
 Jul 1

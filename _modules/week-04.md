@@ -1,5 +1,6 @@
 ---
 title: Week 4 — Control and Iteration
+status: Inactive
 ---
 
 Jul 24

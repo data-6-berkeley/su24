@@ -1,5 +1,6 @@
 ---
 title: Week 5 — Simulation, Files, and Dictionaries
+status: Inactive
 ---
 
 Jul 31

@@ -1,5 +1,6 @@
 ---
 title: Week 3 — Tables
+status: Inactive
 ---
 
 Jul 17
