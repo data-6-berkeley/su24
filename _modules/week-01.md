@@ -2,7 +2,7 @@
 title: Week 1 — Introduction to Python
 ---
 
-Jul 3
+Jul 1
 : **1**{: .label} Introduction, Course Overview
   : [Slides](https://docs.google.com/presentation/d/1vCtyuauNY0xDgcfLo7XFbU6r8uOUh8RBI4TK01Dm2cM/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec01%2Flec01.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec01%2Flec01-blank.ipynb&branch=main)
 : **2**{: .label} Jupyter Notebooks, Arithmetic
