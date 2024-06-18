@@ -32,6 +32,12 @@ UC Berkeley, Summer 2024
 {{ announcement }}
 {% endfor %}
 
+{% for mod in mods %}
+  {% if mod.status == 'Active' %}
+    {% assign active-mods = active-mods | push: mod %}
+  {% endif %}
+{% endfor %}
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
