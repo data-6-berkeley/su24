@@ -139,7 +139,7 @@ You will be added to Ed automatically, but email James ([jweichert@berkeley.edu]
 
 We will be using several websites this semester. Here’s what they’re all used for:
 * [Course Website](https://data6.org/su23/): where all content and assignments will be posted.
-* [Ed](https://edstem.org/us/courses/39169/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
+* [Ed](https://edstem.org/us/courses/60192/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
 * [DataHub](http://datahub.berkeley.edu/): we use DataHub to host jupyter notebook assignments. Don’t worry too much about how this works, just access all assignments by clicking the link on the Data 6 website.
 * [Gradescope](https://www.gradescope.com/courses/551324): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
 
