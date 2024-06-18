@@ -20,6 +20,9 @@ timeline:
   - '5:30 PM'
   - '6:00 PM'
   - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
 schedule:
   - name: Monday
     events:
@@ -39,10 +42,6 @@ schedule:
         location: 110 SOCS
   - name: Wednesday
     events:
-      - name: Office Hours
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Wheeler 212
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
