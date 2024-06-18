@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: Data 6 Summer 2022 Course Staff.
+description: Data 6 Summer 2024 Course Staff.
 ---
 
 # Staff
