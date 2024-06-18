@@ -20,16 +20,16 @@ description: >-
 ## Welcome	&#x1F44B;
 
 
-Welcome to Data 6 Summer 2023! On behalf of the Data 6 course staff, we’re excited to be teaching you this summer and hope you enjoy this class as much as we enjoy teaching it. Whether you’re a first-time college student or a seasoned veteran student, Data 6 is the perfect course to get started with coding and data science. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics — _we will teach you_ **everything** _you need to succeed in this class and prepare you for further data science and/or computer science classes._ Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study, especially in the social sciences.
+Welcome to Data 6 Summer 2024! On behalf of the Data 6 course staff, we’re excited to be teaching you this summer and hope you enjoy this class as much as we enjoy teaching it. Whether you’re a first-time college student or a seasoned veteran student, Data 6 is the perfect course to get started with coding and data science. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics — _we will teach you_ **everything** _you need to succeed in this class and prepare you for further data science and/or computer science classes._ Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study, especially in the social sciences.
 
-One of—in our opinion—the best parts of data science at Berkeley is the opportunity to learn from other students. All members of course staff are current or former undergraduates at UC Berkeley who have taken other data science classes (including Data 6!) and have experience teaching in classes like [Data 8](https://data8.org/) and Data 6. Believe it or not, we were all once students taking introductory data science and computer science classes and were just as confused and overwhelmed as you. We know what it’s like to step into a class feeling out of place, but also know what it’s like to finish a class feeling fulfilled and confident in your ability to succeed in data science and computer science at Berkeley. **You are here for a reason** — you are all talented students and are all more than capable of being great data scientists, computer scientists, engineers, social scientists, and more. We want to do our best to support you this summer, so please don’t hesitate to reach out to any of us on [course staff](https://data6.org/su23/staff/) via email or [Ed](https://edstem.org/us/courses/39169/discussion/) if you have any questions or concerns.
+One of—in our opinion—the best parts of data science at Berkeley is the opportunity to learn from other students. All members of course staff are current or former undergraduates at UC Berkeley who have taken other data science classes (including Data 6!) and have experience teaching in classes like [Data 8](https://data8.org/) and Data 6. Believe it or not, we were all once students taking introductory data science and computer science classes and were just as confused and overwhelmed as you. We know what it’s like to step into a class feeling out of place, but also know what it’s like to finish a class feeling fulfilled and confident in your ability to succeed in data science and computer science at Berkeley. **You are here for a reason** — you are all talented students and are all more than capable of being great data scientists, computer scientists, engineers, social scientists, and more. We want to do our best to support you this summer, so please don’t hesitate to reach out to any of us on [course staff](https://data6.org/su24/staff/) via email or [Ed](https://edstem.org/us/courses/60192/discussion/) if you have any questions or concerns.
 
 We are continually revising course materials, assignments, and policies to improve the course and make this the best learning experience for you all. We welcome constructive feedback about what we can improve, and will try our best to incorporate your feedback into future lectures, assignments, and iterations of the course.
 
 Again, welcome to Data 6 — we can’t wait to meet you and are super excited to be teaching you this summer!
 
 Best,
-[James](https://data6.org/su23/staff/#instructors) and [Jonathan](https://data6.org/su23/staff/#instructors)
+[Atticus](https://data6.org/su24/staff/#instructors) and [Edwin](https://data6.org/su24/staff/#instructors)
 
 <hr>
 
@@ -54,24 +54,24 @@ The rough topic breakdown for this summer is as follows:
 * Week 5: More Python (and more real-world applications)
 * Week 6: Probability and Simulation
 
-Lecture slides will be posted to the website right before each lecture to allow you to follow along if you want. You are also welcome to experiment with the concepts you’ve learned by writing or editing code in the Jupyter Notebooks we provide for each lecture (feel free to change it however you want — we promise you won’t break anything). **There is no one textbook that covers the content of this course the way we intend on covering, so all of the material you’ll need to succeed in Data 6 will be presented in lecture, labs, homeworks, and discussions.** If you want to review additional material, we will post optional readings from online textbooks for other courses (e.g. Data 8) along with most lectures. You can read more [here](https://data6.org/su23/resources/).
+Lecture slides will be posted to the website right before each lecture to allow you to follow along if you want. You are also welcome to experiment with the concepts you’ve learned by writing or editing code in the Jupyter Notebooks we provide for each lecture (feel free to change it however you want — we promise you won’t break anything). **There is no one textbook that covers the content of this course the way we intend on covering, so all of the material you’ll need to succeed in Data 6 will be presented in lecture, labs, homeworks, and discussions.** If you want to review additional material, we will post optional readings from online textbooks for other courses (e.g. Data 8) along with most lectures. You can read more [here](https://data6.org/su24/resources/).
 
 ## Logistics &#x1F5D3;
 
-**Lecture**: Mondays & Wednesdays, 10-12PM; Tuesdays & Thursdays, 10AM-11AM in [Wheeler](https://www.berkeley.edu/map?wheeler) 212
+**Lecture**: Mondays & Wednesdays, 10-12PM; Tuesdays & Thursdays, 10AM-11AM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 110
 
-**Lab**: (Usually) Tuesdays & Thursdays, 11AM-12PM in [Wheeler](https://www.berkeley.edu/map?wheeler) 212
+**Lab**: (Usually) Tuesdays & Thursdays, 11AM-12PM in [SOCS](https://www.berkeley.edu/map?wheeler) 110
 
-**Discussion**: Fridays, 10AM-12PM in [Dwinelle](https://www.berkeley.edu/map?dwinelle) 215 & 229
+**Discussion**: Fridays, 10AM-12PM in [SOCS](https://www.berkeley.edu/map?dwinelle) 166 & 170
 
-**Office Hours (Optional)**: Wednesdays 9AM-10AM in [Wheeler] 212, & Thursdays, 5:30PM-7PM in [Warren](https://www.berkeley.edu/map/?warren) 101B
+**Office Hours (Optional)**: 5PM-8PM in [Warren](https://www.berkeley.edu/map/?warren) 101B
 
-The full schedule is available on the [Schedule](https://data6.org/su23/schedule/) page.
+The full schedule is available on the [Schedule](https://data6.org/su24/schedule/) page.
 
 ## Course Components	&#x1F4D2;
 While this course is designed to fit into a six-week summer session, the pace of Data 6 over the summer is roughly twice as fast as the pace of a 3-unit class in the fall or spring semester. To compensate for the fast pace of the summer, we have more lectures and lab time per week than during the academic year. We do our best to make sure that we spend enough time on each concept, and that the material is approachable for all students. But if you feel like things are going too fast, let us know and we will try to slow down!
 
-Part of making sure that we're providing the best learning experience for you is checking in on your progress and getting feedback about the pace of the class. Each week, we will send out a survey asking for your feedback on how comfortable you are with the previous week's concepts and how we can better support you going forward. Responding to the weekly surveys constitutes 5% of your [final grade](https://data6.org/su23/syllabus/#grading), but the surveys are graded on completion. The surveys will be anonymous and we encourage you to be honest about how you're feeling and how you're doing in the class so we can better support you.
+Part of making sure that we're providing the best learning experience for you is checking in on your progress and getting feedback about the pace of the class. Each week, we will send out a survey asking for your feedback on how comfortable you are with the previous week's concepts and how we can better support you going forward. Responding to the weekly surveys constitutes 5% of your [final grade](https://data6.org/su24/syllabus/#grading), but the surveys are graded on completion. The surveys will be anonymous and we encourage you to be honest about how you're feeling and how you're doing in the class so we can better support you.
 
 All of the course components (lectures, labs, discussions, homeworks, office hours, and quizzes/exams) are designed to provide valuable learning experiences and help you master core concepts in data science and computing.      
 
@@ -92,7 +92,7 @@ There are (usually) two lab sections per week that follow immediately after the 
 Lab notebooks are also great opportunities to work on problems with your peers. The hope is that by participating and collaborating during labs, you will be able to better understand the concepts and finish your homework more quickly. **Discussing questions and approaches to problems with classmates is highly encouraged**, but please note that you must always write your own answers and code in your jupyter notebooks, both on labs and homeworks.
 
 ### Discussion
-Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/su23/staff/#undergraduate-student-instructors-ugsis). In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you might be asked to complete some short prep work consisting of a few short readings. We will posts the readings on the course website at the beginning of the week.
+Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/su24/staff/#undergraduate-student-instructors-ugsis). In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you might be asked to complete some short prep work consisting of a few short readings. We will posts the readings on the course website at the beginning of the week.
 
 **Participation during discussion (and other parts of the course) is part of your grade.** We hope to have you drive our discussions, so we encourage you to ask questions, raise new points, or make connections to your own experiences.
 
@@ -110,7 +110,7 @@ There are 5 homework assignments, which correspond to roughly one per week. In g
 Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable forms of collaboration.
 
 ### Office Hours and Ed
-In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](https://www.data6.org/su23/schedule/) for more details about office hours.
+In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](https://www.data6.org/su24/schedule/) for more details about office hours.
 
 While office hours are not mandatory, we **highly recommend** attending them regularly. Most students find that office hours help them to work through assignments, and find other students who are working on the same problems. Attending Data 6 office hours is also a great way to familiarize yourself with the office hours environment for a lot of data science and computer science classes, where you will have to rely on working with peers due to a limited number of available TAs.
 
@@ -119,8 +119,8 @@ Aside from office hours, we also encourage you to ask and answer questions about
 ### Quizzes and Exams
 This course does not have a midterm. Instead, we will have two short quizzes in class, each worth 10% of your final grade. Quizzes are **not** cumulative, so they will focus only on (roughly) the past two weeks worth of lecture content. Quizzes are intended to test your understanding of key concepts, but are not intended to ‘trick’ you. We will also hold review sessions during discussion before each quiz to help you prepare. The dates for the quizzes are:
 
-* Quiz 1: Monday, July 17th
-* Quiz 2: Monday, July 31st
+* Quiz 1: Monday, July 15th
+* Quiz 2: Monday, July 29th
 
 We will have a final exam during the campus-assigned slot: **Friday August 11th, 10AM - 12PM.** The exam is worth 20% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
 
@@ -132,13 +132,13 @@ This class **does not** use bCourses (Canvas) — all of the materials and assig
 
 For class communication, we will be using Ed Discussion (or simply “Ed,” as we will call it), the campus’ discussion platform. Ed is where you will see announcements from course staff, ask questions about course material, and get help from staff and other students on assignments and concepts. Ed allows students to respond to questions from other students, so we hope you will help out your classmates by responding to questions you know the answer to, or asking questions about things you’re confused about. It’s likely that other students have many of the same questions as you! Please review the Ed etiquette guidelines before posting on Ed.
 
-You will be added to Ed automatically, but email James ([jweichert@berkeley.edu](jweichert@berkeley.edu)) if you’re not sure how to access it.
+You will be added to Ed automatically, but email Atticus ([atticus.ginsborg@berkeley.edu](atticus.ginsborg@berkeley.edu)) and Edwin([jedwin321@berkeley.edu](jedwin321@berkeley.edu)) if you’re not sure how to access it.
 
 
 ## Technology &#x1F4BB;
 
 We will be using several websites this semester. Here’s what they’re all used for:
-* [Course Website](https://data6.org/su23/): where all content and assignments will be posted.
+* [Course Website](https://data6.org/su24/): where all content and assignments will be posted.
 * [Ed](https://edstem.org/us/courses/60192/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
 * [DataHub](http://datahub.berkeley.edu/): we use DataHub to host jupyter notebook assignments. Don’t worry too much about how this works, just access all assignments by clicking the link on the Data 6 website.
 * [Gradescope](https://www.gradescope.com/courses/551324): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
@@ -210,7 +210,7 @@ Try your best not to worry about grades, and we'll reciprocate by being fair and
 ## Accommodations	&#x1F91D;
 Everyone learns differently, and supporting each student individually is part of our job as instructors. We will make every effort to accommodate students to ensure that you can learn safely and comfortably.
 
-If you have a disability, you can email James ([jweichert@berkeley.edu](jweichert@berkeley.edu)) and Jonathan ([jonathanferrari@berkeley.edu](jonathanferrari@berkeley.edu)) and we can discuss options for accommodations. You can also communicate with the [Disabled Students Program](https://dsp.berkeley.edu/) (DSP) to have your DSP specialist send us a letter of accommodation letting us know what accommodations we need to provide. **You are *not* required to talk with us directly about your disability if you wish to work through DSP instead.**
+If you have a disability, you can email Atticus ([atticus.ginsborg@berkeley.edu](atticus.ginsborg@berkeley.edu)) and Edwin ([jedwin321@berkeley.edu](jedwin321@berkeley.edu)) and we can discuss options for accommodations. You can also communicate with the [Disabled Students Program](https://dsp.berkeley.edu/) (DSP) to have your DSP specialist send us a letter of accommodation letting us know what accommodations we need to provide. **You are *not* required to talk with us directly about your disability if you wish to work through DSP instead.**
 
 If you are a first-time student and anticipating DSP accommodations in furture classes, we recommend starting the DSP onboarding process over the summer when DSP is less busy. In past years, the DSP intake process has taken up to four weeks for some students. Once you register with DSP, the process for requesting accommodations in each of your classes is usually much smoother.
 
