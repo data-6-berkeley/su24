@@ -42,5 +42,5 @@ UC Berkeley, Summer 2024
 {% endfor %}
 
 {% for module in site.modules %}
-{{ module }}
+  {{ module }}
 {% endfor %}
