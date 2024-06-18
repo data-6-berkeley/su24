@@ -1,5 +1,6 @@
 ---
 title: Week 2 — Visualizing Data
+class: Berkeley
 status: Inactive
 ---
 

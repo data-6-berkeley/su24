@@ -1,5 +1,6 @@
 ---
 title: Week 3 — Tables
+class: Berkeley
 status: Inactive
 ---
 
