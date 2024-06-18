@@ -11,9 +11,9 @@ UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 ## Offerings
-1. [Summer 2024](/su24/)
-2. [Summer 2023](/su23/)
-2. [Summer 2022](/su22/)
+1. [Summer 2024](https://data6.org/su24/)
+2. [Summer 2023](https://data6.org/su23/)
+2. [Summer 2022](https://data6.org/su22/)
 2. [Summer 2021](http://data6.org/su21)
 3. [Spring 2021](http://data94.org)
 
