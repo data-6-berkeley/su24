@@ -114,4 +114,4 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 
 ## More Documentation
 
-The Data 6 Python reference guide is based on the Data 8 [Python Reference](http://data8.org/sp22/python-reference.html). More detailed Python documentation is available [here](https://docs.python.org/3/).
+The Data 6 Python reference guide is based on the Data 8 [Python Reference](https://www.data8.org/sp24/reference/). More detailed Python documentation is available [here](https://docs.python.org/3/).
