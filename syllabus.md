@@ -122,7 +122,7 @@ This course does not have a midterm. Instead, we will have two short quizzes in 
 * Quiz 1: Monday, July 15th
 * Quiz 2: Monday, July 29th
 
-We will have a final exam during the campus-assigned slot: **Friday August 11th, 10AM - 12PM.** The exam is worth 20% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
+We will have a final exam during the campus-assigned slot: **Friday August 9th, 10AM - 12PM.** The exam is worth 20% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
 
 We will post more details about quizzes and exams on Ed.
 
