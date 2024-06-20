@@ -33,4 +33,4 @@ Jul 25
 
 Jul 26
 : **Discussion 4**{: .label .label-discussion} Privacy
-  : [Workssheet](https://data6.org/su23/assignments/disc04.pdf) &#8226; [Solutions](https://data6.org/su23/assignments/disc04-sols.pdf)
+  : [Worksheet](https://data6.org/su23/assignments/disc04.pdf) <!-- &#8226; [Solutions](./assignments/disc04-sols.pdf) -->

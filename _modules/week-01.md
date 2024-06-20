@@ -1,7 +1,7 @@
 ---
 title: Week 1 — Introduction to Python
 class: Berkeley
-status: Active
+status: Inactive
 ---
 
 Jul 1
@@ -34,4 +34,4 @@ Jul 4
 
 Jul 5
 : **Discussion 1**{: .label .label-discussion} Fractions & Health Data
-  : [Worksheet](./assignments/disc01.pdf) &#8226; [Solutions](./assignments/disc01-sols.pdf)
+  : [Worksheet](./assignments/disc01.pdf) <!-- &#8226; [Solutions](./assignments/disc01-sols.pdf) -->
