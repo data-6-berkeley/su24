@@ -9,7 +9,7 @@ seo:
   name: Just the Class
 ---
 
-# Introduction to Computational Thinking with Data &#x1f4ca;
+# Data 6: Introduction to Computational Thinking with Data &#x1f4ca;
 
 {: .mb-2 }
 UC Berkeley, Summer 2024
@@ -18,6 +18,12 @@ UC Berkeley, Summer 2024
 {: .mb-2 }
 **Instructors:** Atticus Ginsborg, Edwin Vargas Navarro
 {: .mb-0 .fs-5 .text-grey-dk-000 }
+
+<button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
+
+{: .btn .btn-extensions}
+[Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
+
 <!--{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
@@ -45,3 +51,28 @@ UC Berkeley, Summer 2024
 {% for module in active-mods %}
   {{ module }}
 {% endfor %}
+
+<script src="assets/darkmode.js"></script>
+<script>
+  const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+  jtd.addEvent(toggleDarkMode, 'click', function(){
+    if (jtd.getTheme() === 'custom_dark') {
+      jtd.setTheme('light');
+      localStorage.setItem("darkMode", 0);
+      toggleDarkMode.innerHTML = "Toggle Dark Mode";
+      toggleDarkMode.classList.add('dm-btn');
+        toggleDarkMode.classList.remove('dm-dark-btn');
+    } else {
+      jtd.setTheme('custom_dark');
+      localStorage.setItem("darkMode", 1);
+      toggleDarkMode.innerHTML = "Return to the Light";
+      toggleDarkMode.classList.add('dm-dark-btn');
+      toggleDarkMode.classList.remove('dm-btn');
+    }
+  });
+
+    window.addEventListener("DOMContentLoaded", (event) => {
+      onLoad();
+  });
+</script>

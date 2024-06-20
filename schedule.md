@@ -11,3 +11,5 @@ Note [SOCS](https://www.berkeley.edu/map/social-sciences-building/) is the Socia
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}
+
+<script src="../assets/darkmode.js"></script>
