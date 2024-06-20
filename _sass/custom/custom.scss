@@ -944,3 +944,27 @@ code {
 .dm-text a {
   color: white !important;
 }
+
+.btn-ed {
+  @include btn-color($white, #9400D3);
+}
+
+.btn-bcourses {
+  @include btn-color($white, #19519a);
+}
+
+.btn-gradescope {
+  @include btn-color($white, #228B22);
+}
+
+.btn-textbook {
+  @include btn-color($white, teal);
+}
+
+.btn-extensions {
+  @include btn-color($white, #523be7);
+}
+
+.btn-currweek {
+  @include btn-color($white, #FA8072);
+}
