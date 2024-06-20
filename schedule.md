@@ -13,3 +13,8 @@ Note [SOCS](https://www.berkeley.edu/map/social-sciences-building/) is the Socia
 {% endfor %}
 
 <script src="../assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>

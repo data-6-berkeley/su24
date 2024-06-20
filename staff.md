@@ -29,3 +29,10 @@ Read more about our amazing Data 6 course staff below! We're all current or rece
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
+
+<script src="../assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>

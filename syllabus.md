@@ -242,3 +242,10 @@ When creating Data 6, we've referred to the materials of several other courses:
 ---
 
 The website uses [Just the Class](https://kevinl.info/just-the-class/).
+
+<script src="../assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>

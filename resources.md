@@ -51,3 +51,10 @@ Claus Wilke's book that covers the basics of how to tell informative and ethical
 ## Other
 
 * The Data 8 [Table Function Visualizer](http://data8.org/interactive_table_functions/) is a great tool to see how `.group` and `.pivot` work.
+
+<script src="../assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>

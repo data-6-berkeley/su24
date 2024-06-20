@@ -115,3 +115,10 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 ## More Documentation
 
 The Data 6 Python reference guide is based on the Data 8 [Python Reference](https://www.data8.org/sp24/reference/). More detailed Python documentation is available [here](https://docs.python.org/3/).
+
+<script src="../assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>
