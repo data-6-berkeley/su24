@@ -21,7 +21,10 @@ UC Berkeley, Summer 2024
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
-{: .btn .btn-extensions}
+[Ed](https://edstem.org/us/courses/60192/){: .btn .btn-ed}
+[bCourses](https://bcourses.berkeley.edu/courses/1535590){: .btn .btn-bcourses}
+[Gradescope](https://www.gradescope.com/courses/703847){: .btn .btn-gradescope}
+[Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 <!--{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
