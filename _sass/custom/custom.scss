@@ -948,15 +948,8 @@ code {
 @mixin btn-color($text-color, $bg-color) {
   color: $text-color !important;
   background-color: $bg-color !important;
-  border: none;
-  padding: 8px 18px;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12px;
-  margin: 4px 2px;
   cursor: pointer;
-  border-radius: 4px;
 }
 
 .btn-ed {
