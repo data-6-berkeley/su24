@@ -945,6 +945,20 @@ code {
   color: white !important;
 }
 
+@mixin btn-color($text-color, $bg-color) {
+  color: $text-color !important;
+  background-color: $bg-color !important;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
 .btn-ed {
   @include btn-color(white, #9400D3);
 }
