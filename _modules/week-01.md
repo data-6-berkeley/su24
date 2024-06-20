@@ -1,7 +1,7 @@
 ---
 title: Week 1 — Introduction to Python
 class: Berkeley
-status: Inactive
+status: Active
 ---
 
 Jul 1
