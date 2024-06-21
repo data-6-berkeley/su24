@@ -187,7 +187,7 @@ In order to encourage you to start and finish homework assignments early, you ca
 
 If you submit your homework late and do not have an extension (see below), we will still accept your submission up to two days late with a 30% late penalty per day. So if you scored 90% on a homework and submitted 12 hours after the deadline, your grade for that homework would be 63%. If you submitted 36 hours after the deadline, your grade for that homework would be 36%. We will not accept homeworks past two days after the submission deadline.
 
-**Extensions**: Things happen, and we don't want to penalize you because of circumstances that are out of your control. To request an extension on a homework, please email **both** James and Jonathan with the reason for your request and the number of days you are requesting an extension for (maximum of 2 days). As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope.
+**Extensions**: Things happen, and we don't want to penalize you because of circumstances that are out of your control. To request an extension on a homework, please email **both** Atticus and Edwin with the reason for your request and the number of days you are requesting an extension for (maximum of 2 days). As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope.
 
 If you require assignment extensions as a DSP accommodations, please see the DSP [accommodations](#accommodations-) process below.
 
