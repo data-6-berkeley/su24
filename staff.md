@@ -16,7 +16,7 @@ Read more about our amazing Data 6 course staff below! We're all current or rece
 {% endfor %}
 
 
-## Undergraduate Student Instructors (uGSIs)
+## Undergraduate Student Instructor (uGSI)
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'uGSI' %}
 {% for staffer in teaching_assistants %}
