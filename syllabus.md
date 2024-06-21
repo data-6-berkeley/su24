@@ -141,7 +141,7 @@ We will be using several websites this semester. Here’s what they’re all use
 * [Course Website](https://data6.org/su24/): where all content and assignments will be posted.
 * [Ed](https://edstem.org/us/courses/60192/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
 * [DataHub](http://datahub.berkeley.edu/): we use DataHub to host jupyter notebook assignments. Don’t worry too much about how this works, just access all assignments by clicking the link on the Data 6 website.
-* [Gradescope](https://www.gradescope.com/courses/551324): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
+* [Gradescope](https://www.gradescope.com/courses/800533): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
 
 Since all Data 6 material is accessible online, there are no requirements in terms of specific computer hardware. All you need is a laptop with internet and a web browser (Google Chrome or Firefox tend to work best). If you looking to purchase a laptop for college, Prof. Lisa Yan put together this [helpful guide](https://docs.google.com/document/d/1avUDkT5yvW_XycvVYP9LevJP791a9CdxuCAzQB1tYfc/edit?usp=sharing).
 
