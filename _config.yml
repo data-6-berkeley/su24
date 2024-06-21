@@ -29,11 +29,11 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
-  Ed:
-    - 'https://edstem.org/us/courses/60192/'
-  Gradescope:
-    - 'https://www.gradescope.com/courses/551324'
+# aux_links:
+#   Ed:
+#     - 'https://edstem.org/us/courses/60192/'
+#   Gradescope:
+#     - 'https://www.gradescope.com/courses/551324'
 footer_content:
 
 # Collections for website data
