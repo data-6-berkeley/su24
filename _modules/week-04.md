@@ -16,7 +16,7 @@ Jul 23
 : **18**{: .label} For Loops
   : [Slides](https://docs.google.com/presentation/d/16SN9FqqVPfB0YqAwMNMfJs9Ffp-Gh-SW66QkpAbnP-Y/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec18%2Flec18.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec18%2Flec18-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
-: **Lab 6**{: .label .label-lab} [Functions and Control](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab06%2Flab06.ipynb) (**Submit Lab 6 to Gradescope!**)
+: **Lab 6**{: .label .label-lab} [Functions and Control](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab06%2Flab06.ipynb)
 
 Jul 24
 : **19**{: .label} Advanced For Loops
@@ -28,8 +28,8 @@ Jul 25
   : [Slides](https://docs.google.com/presentation/d/1VOm6soOjqH27EpDqZMG2TUzSzn_JRhe-k22AmKyKPSs/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec20%2Flec20-blank.ipynb&branch=main)
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} [Iteration](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab07%2Flab07.ipynb)
-: **Homework 4**{: .label .label-homework} [Control, Iteration, and Strings](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw04%2Fhw04.ipynb) &nbsp;**Due Aug 3 @ 11:00PM**
-: **Survey**{: .label .label-survey} [Weekly Survey 4](https://forms.gle/ab7XHKt4XpB51cyg6) &nbsp;**Due Aug 3 @ 11:00PM**
+: **Homework 4**{: .label .label-homework} [Control, Iteration, and Strings](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw04%2Fhw04.ipynb) &nbsp;**Due Aug 1 @ 11:00PM**
+: **Survey**{: .label .label-survey} [Weekly Survey 4](https://forms.gle/ab7XHKt4XpB51cyg6) &nbsp;**Due Aug 1 @ 11:00PM**
 
 Jul 26
 : **Discussion 4**{: .label .label-discussion} Privacy
