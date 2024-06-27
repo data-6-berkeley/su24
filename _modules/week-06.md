@@ -1,7 +1,7 @@
 ---
 title: Week 6 — Web Development and Conclusion
 class: Berkeley
-status: Inactive
+status: Active
 ---
 
 Aug 5
