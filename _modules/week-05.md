@@ -10,19 +10,22 @@ Jul 29
   
 
 Jul 30
-: **21**{: .label} Randomness, Simulation
+: **22**{: .label} Files & Data Ethics
+  <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec21%2Flec21.ipynb&branch=main) -->
+: *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
+: **23**{: .label} Regulatory Structures & File Manipulation
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec21%2Flec21.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 : **Lab 8**{: .label .label-lab} Randomness and Simulation &nbsp;**Due July 30 @ 11:00PM**
 <!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab08%2Flab08.ipynb) -->
 
 Jul 31
-: **22**{: .label} File Formats, Dictionaries
+: **24**{: .label} Sampling & Data Aggregation
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec22%2Flec22.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec22%2Flec22-blank.ipynb&branch=main) -->
 : *Optional Reading:* [SPR 23](https://cs.stanford.edu/people/nick/py/python-dict.html); [CP 2.4.3](http://www.composingprograms.com/versions/v1/pages/24-mutable-data.html#dictionaries)
 
 Aug 1
-: **23**{: .label} Guest Lecture - Human Contexts and Ethics
+: **25**{: .label} More Sampling
 : **Lab 9**{: .label .label-lab} Dictionaries &nbsp;**Due Aug 1 @ 11:00PM**
 <!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab09%2Flab09.ipynb) -->
 : **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 7 @ 11:00PM**

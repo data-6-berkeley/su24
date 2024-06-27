@@ -5,31 +5,30 @@ status: Active
 ---
 
 Jul 8
-: **6**{: .label} Table Fundamentals
+: **6**{: .label} Introduction to Social Science Research
   <!-- : [Slides]() &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec06%2Flec06.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec06%2Flec06-blank.ipynb) -->
-: *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
+: **7**{: .label} Introduction to Visualization
+<!-- : [Slides]() -->
 : **Reading**{: .label .label-reading} Weekly Reading 2 &nbsp;**Due July 12 @ 10:00AM**
 
 Jul 9
-: **7**{: .label} Introduction to Visualization
-  <!-- : [Slides]() -->
+: **8**{: .label} Table Fundamentals 
+<!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec08%2Flec08.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec08%2Flec08-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)
 : **Lab 2**{: .label .label-lab} Table Methods and Data Manipulation &nbsp;**Due Jul 9 @ 11:00PM** 
 <!-- [](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab02%2Flab02.ipynb) -->
 
 Jul 10
-: **8**{: .label} Visualizing Categorical Variables
-  <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec08%2Flec08.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec08%2Flec08-blank.ipynb&branch=main) -->
-: *Optional Reading:* [CIT 7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html), [FDV 6.1](https://clauswilke.com/dataviz/visualizing-amounts.html#bar-plots)
-: **9**{: .label} Visualizing Numerical Variables
+: **9**{: .label} Variables in Social Science
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09-blank.ipynb&branch=main) -->
-: *Optional Reading:* [CIT 7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [FDV 7.1](https://clauswilke.com/dataviz/histograms-density-plots.html#visualizing-a-single-distribution)
-
-
-Jul 11
+: *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
 : **10**{: .label} Visualizing Two Variables
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec10.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec10-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
+
+Jul 11
+: **11**{: .label} Bickel Case Study
+  <!-- : [Slides]() &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec11%2Flec11.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec11%2Flec11-blank.ipynb) -->
 : **Lab 3**{: .label .label-lab} Visualization Methods &nbsp;**Due Jul 11 @ 11:00PM** 
 <!-- [](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab03%2Flab03.ipynb) -->
 : **Homework 2**{: .label .label-homework} Table Methods and Data Visualization &nbsp;**Due Jul 18 @ 11:00PM** 

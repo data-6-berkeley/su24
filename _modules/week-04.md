@@ -5,27 +5,27 @@ status: Active
 ---
 
 Jul 22
-: **16**{: .label} Comparisons
+: **17**{: .label} Comparisons
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec16%2Flec16.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec16%2Flec16-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html); [SPR 14](https://cs.stanford.edu/people/nick/py/python-if.html)
-: **17**{: .label} Control
+: **18**{: .label} Control
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec17%2Flec17.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec17%2Flec17-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [CP 1.5](http://composingprograms.com/pages/15-control.html)
 : **Reading**{: .label .label-reading} Weekly Reading 4 &nbsp;**Due July 26 @ 10:00AM**
 
 Jul 24
-: **18**{: .label} For Loops
+: **19**{: .label} Iteration
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec18%2Flec18.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec18%2Flec18-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
 : **Lab 6**{: .label .label-lab} Functions and Control <!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab06%2Flab06.ipynb) -->
 
 Jul 24
-: **19**{: .label} Advanced For Loops
+: **20**{: .label} More Iteration
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec19%2Flec19.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec19%2Flec19-blank.ipynb&branch=main) -->
 : *Optional Reading:* [PPDS 2.1](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#for-loops)
 
 Jul 25
-: **20**{: .label} Maps
+: **21**{: .label} Maps
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20-blank.ipynb&branch=main) -->
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} Iteration &nbsp;**Due July 25 @ 11:00PM**
