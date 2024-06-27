@@ -1,17 +1,17 @@
 ---
 title: Week 2 — Visualizing Data
 class: Berkeley
-status: Inactive
+status: Active
 ---
 
 Jul 8
 : **6**{: .label} Table Fundamentals
-  : [Slides](https://docs.google.com/presentation/d/1FRMb13fupWWTEpv0m2A5SmMqM7vPYQNO-cQm9OzaqTg/edit?usp=sharing) &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec06%2Flec06.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec06%2Flec06-blank.ipynb)
+  <!-- : [Slides](https://docs.google.com/presentation/d/1FRMb13fupWWTEpv0m2A5SmMqM7vPYQNO-cQm9OzaqTg/edit?usp=sharing) &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec06%2Flec06.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec06%2Flec06-blank.ipynb) -->
 : *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
 
 Jul 9
 : **7**{: .label} Introduction to Visualization
-  : [Slides](https://docs.google.com/presentation/d/1X7R6DOmEjNMa1zGwpdz8W3u5LAmGjPSaR_tfXIZgY8o/edit?usp=sharing)
+  <!-- : [Slides](https://docs.google.com/presentation/d/1X7R6DOmEjNMa1zGwpdz8W3u5LAmGjPSaR_tfXIZgY8o/edit?usp=sharing) -->
 : *Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)
 : **Lab 2**{: .label .label-lab} [Table Methods and Data Manipulation](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flab%2Flab02%2Flab02.ipynb)
 

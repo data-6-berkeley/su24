@@ -7,6 +7,7 @@ status: Active
 Jul 1
 : **1**{: .label} Introduction, Course Overview
   : [Slides](https://docs.google.com/presentation/d/1i6bZwfjf8sHiXVmoHDwHbma857xuc2XUvClikDKe0qM/edit?usp=sharing) <!-- &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec01%2Flec01.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec01%2Flec01-blank.ipynb&branch=main) -->
+: **Reading**{:label .label-reading}
 : **2**{: .label} Jupyter Notebooks, Arithmetic
   <!-- : [Slides](https://docs.google.com/presentation/d/1FtZq1so09ONVyxUMjatcMOybYFqwqKXBfxjaA2WHvxg/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec02%2Flec02.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec02%2Flec02-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)
@@ -17,7 +18,8 @@ Jul 2
 : **3**{: .label} Evaluation, Names, Data Types
   <!-- : [Slides](https://docs.google.com/presentation/d/1scmm3luXsy8EcIsV6E36ovDm2TEerRL2J-VMCKOE7JY/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec03%2Flec03.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec03%2Flec03-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CP 1.2](https://www.composingprograms.com/pages/12-elements-of-programming.html); [CIT 3.2](https://inferentialthinking.com/chapters/03/2/Names.html); [4.1](https://www.inferentialthinking.com/chapters/04/1/Numbers.html); [4.2](https://inferentialthinking.com/chapters/04/2/Strings.html)
-: **Lab 1**{: .label .label-lab} [Using Jupyter Notebooks](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab01%2Flab01.ipynb)
+: **Lab 1**{: .label .label-lab} Using Jupyter Notebooks &nbsp;**Due Jul 2 @ 11:00PM**
+<!-- [](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab01%2Flab01.ipynb) -->
 
 Jul 3
 : **4**{: .label} Arrays and Variables
@@ -26,7 +28,8 @@ Jul 3
 : **5**{: .label} NumPy, Indexing, Working with Data
   <!-- : [Slides](https://docs.google.com/presentation/d/1FxgMB5lupH-lk5Ude7jKimOgi8DMiwKqvsr7eARW8C0/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec05%2Flec05.ipynb) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec05%2Flec05-blank.ipynb) -->
 : *Optional Reading:* [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)
-: **Homework 1**{: .label .label-homework} [Introduction to Python](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw01%2Fhw01.ipynb) &nbsp;**Due Jul 11 @ 11:00PM**
+: **Homework 1**{: .label .label-homework} Introduction to Python &nbsp;**Due Jul 11 @ 11:00PM**
+<!-- [](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw01%2Fhw01.ipynb)  --> 
 : **Survey**{: .label .label-survey} [Weekly Survey 1](https://forms.gle/CYedeiMH3nNizCWr8) &nbsp;**Due Jul 11 @ 11:00PM**
 
 Jul 4
