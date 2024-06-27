@@ -43,6 +43,7 @@ schedule:
     events:
       - name: Office Hours
         start: 9:00 AM
+        end: 10:00 AM
         location: 126 SOCS
       - name: Lecture
         start: 10:10 AM
