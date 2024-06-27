@@ -1,5 +1,7 @@
 ---
 timeline:
+  - '9:00 AM'
+  - '9:30 AM'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -26,33 +28,36 @@ schedule:
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
-        location: 110 SOCS
+        location: SOCS 110
   - name: Tuesday
     events:
       - name: Lecture
         start: 10:10 AM
         end: 11:00 AM
-        location: 110 SOCS
+        location: SOCS 110
       - name: Lab
         start: 11:10 AM
         end: 12:00 PM
-        location: 110 SOCS
+        location: SOCS 110
   - name: Wednesday
     events:
+      - name: Office Hours
+        start: 9:00 AM
+        location: 126 SOCS
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
-        location: 110 SOCS
+        location: SOCS 110
   - name: Thursday
     events:
       - name: Lecture
         start: 10:10 AM
         end: 11:00 AM
-        location: 110 SOCS
+        location: SOCS 110
       - name: Lab
         start: 11:10 AM
         end: 12:00 PM
-        location: 110 SOCS
+        location: SOCS 110
       - name: Office Hours
         start: 5:00 PM
         end: 8:00 PM
