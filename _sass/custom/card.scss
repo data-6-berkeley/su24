@@ -8,6 +8,8 @@
   }
 }
 
+$orange-100: #ff9800;
+
 %card {
   @include abstract-card();
   display: flex;
