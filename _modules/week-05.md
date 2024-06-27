@@ -6,6 +6,7 @@ status: Active
 
 Jul 29
 : **Quiz**{: .label .label-exam} Quiz 2: Tables, Functions and Loops
+: **Reading**{: .label .label-reading} &nbsp; **Due August 2 @ 10:00AM**
   
 
 Jul 30

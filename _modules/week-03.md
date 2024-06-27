@@ -5,10 +5,11 @@ status: Active
 ---
 
 Jul 15
-: **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
 : **11**{: .label} Sorting, Filtering Rows
   : [Slides](https://docs.google.com/presentation/d/1zDCSFZ8DxAmGlzjZqGQwU7yafEkElYgQZz9NTo-o3iA/edit?usp=sharing) &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec11%2Flec11.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec11%2Flec11-blank.ipynb)
 : *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)
+: **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
+: **Reading**{: .label .label-reading} &nbsp; **Due July 19 @ 10:00AM**
 
 Jul 16
 : **12**{: .label} Row Methods, Joining Tables

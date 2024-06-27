@@ -8,6 +8,7 @@ Jul 22
 : **16**{: .label} Comparisons
   : [Slides](https://docs.google.com/presentation/d/1w7GtYU2wTBwNGiMYo7iSk7G9HMflNi2eg2vPmFriris/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec16%2Flec16.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec16%2Flec16-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html); [SPR 14](https://cs.stanford.edu/people/nick/py/python-if.html)
+: **Reading**{: .label .label-reading} &nbsp; **Due July 26 @ 10:00AM**
 : **17**{: .label} Control
   : [Slides](https://docs.google.com/presentation/d/1iRcYhO8rwPwK8oaNbsKgpxVzfRbe6twqkBTycFPqVeU/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec17%2Flec17.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flectures%2Flec17%2Flec17-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [CP 1.5](http://composingprograms.com/pages/15-control.html)
