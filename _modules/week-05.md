@@ -7,6 +7,7 @@ status: Active
 Jul 29
 : **Quiz**{: .label .label-exam} Quiz 2: Tables, Functions and Loops
 : **Reading**{: .label .label-reading} Weekly Reading 5 &nbsp;**Due August 2 @ 10:00AM**
+: **Final Project**{: .label .label-homework}&nbsp;**Due Aug 7 @ 11:00PM**
   
 
 Jul 30
@@ -28,8 +29,6 @@ Aug 1
 : **25**{: .label} More Sampling
 : **Lab 9**{: .label .label-lab} Dictionaries &nbsp;**Due Aug 1 @ 11:00PM**
 <!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab09%2Flab09.ipynb) -->
-: **Final Project**{: .label .label-homework}&nbsp;**Due Aug 7 @ 11:00PM**
-<!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw05%2Fhw05.ipynb)  -->
 : **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 7 @ 11:00PM**
 
 Aug 2
