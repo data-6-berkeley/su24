@@ -19,7 +19,7 @@ UC Berkeley, Summer 2024
 **Instructors:** Atticus Ginsborg, Edwin Vargas Navarro
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
-<button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
+<!-- <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button> -->
 
 [Ed](https://edstem.org/us/courses/60192/){: .btn .btn-ed}
 [bCourses](https://bcourses.berkeley.edu/courses/1535590){: .btn .btn-bcourses}
