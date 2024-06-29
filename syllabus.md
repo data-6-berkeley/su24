@@ -94,7 +94,7 @@ Lab notebooks are also great opportunities to work on problems with your peers. 
 
 ### Readings
 
-Reading assignments will be released on Monday and due at the end of your discussion on Friday's at 12:00pm. The reading assignments are meant to be reflective in nature and designed to compliment the content covered each week in lecture with a focus on ethical and social issues. While the assignment will be due at the end of discussion the readings are expected to be completed prior to discussion every week.
+Reading assignments will be released on Monday and due at the end of your discussion on Friday's at 12:00pm. The reading assignments are meant to be reflective in nature and designed to complement the content covered each week in lecture with a focus on ethical and social issues. While the assignment will be due at the end of discussion the readings are expected to be completed prior to discussion every week.
 
 ### Discussion
 Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/su24/staff/#undergraduate-student-instructors-ugsis). In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you will be asked to complete some short prep work consisting of a few short readings. We will posts the readings on the course website at the beginning of the week. It is important to come prepared by completing the readings as we hope to have you drive our discussions. We encourage you to ask questions, raise new points, connect to past readings, and make connections to your own experiences.
