@@ -113,7 +113,7 @@ There are 4 homework assignments, which correspond to roughly one per week. In g
 Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable forms of collaboration.
 
 ### Project
-You can the final project to be like a more in-depth homework assignment that allows more room for the type of exploration you would do as a data scientist in the real world! More details to come later in the semester.
+You can think of the final project to be like a more in-depth homework assignment that allows more room for the type of exploration you would do as a data scientist in the real world! More details to come later in the semester.
 
 ### Office Hours and Ed
 In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](https://www.data6.org/su24/schedule/) for more details about office hours.
