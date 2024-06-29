@@ -10,7 +10,7 @@ Aug 5
 : **27**{: .label} Thinking About Ethics
 
 Aug 6
-: No Class
+: TBD
 
 Aug 7
 : **R**{: .label} Final Review

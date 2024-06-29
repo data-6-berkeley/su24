@@ -6,7 +6,7 @@ status: Active
 
 Jul 29
 : **Quiz**{: .label .label-exam} Quiz 2: Tables, Functions and Loops
-: **Reading**{: .label .label-reading} Weekly Reading 5 &nbsp;**Due August 2 @ 10:00AM**
+: **Reading**{: .label .label-reading} Weekly Reading 5 &nbsp;**Due August 2 @ 12:00PM**
 : **Final Project**{: .label .label-homework}&nbsp;**Due Aug 7 @ 11:00PM**
   
 
@@ -17,7 +17,7 @@ Jul 30
 : **23**{: .label} Regulatory Structures & File Manipulation
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec21%2Flec21.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
-: **Lab 8**{: .label .label-lab} Randomness and Simulation &nbsp;**Due July 30 @ 11:00PM**
+: **Lab 8**{: .label .label-lab} Randomness and Simulation &nbsp;**Due July 31 @ 11:00PM**
 <!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab08%2Flab08.ipynb) -->
 
 Jul 31
