@@ -61,11 +61,11 @@ Lecture slides will be posted to the website right before each lecture to allow 
 
 **Lecture**: Mondays & Wednesdays, 10-12PM; Tuesdays & Thursdays, 10AM-11AM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 110
 
-**Lab**: (Usually) Tuesdays & Thursdays, 11AM-12PM in [SOCS](https://www.berkeley.edu/map?wheeler) 110
+**Lab**: (Usually) Tuesdays & Thursdays, 11AM-12PM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 110
 
-**Discussion**: Fridays, 10AM-12PM in [SOCS](https://www.berkeley.edu/map?dwinelle) 166 & 170
+**Discussion**: Fridays, 10AM-12PM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 166 & 170
 
-**Office Hours (Optional)**: 5PM-8PM in [Warren](https://www.berkeley.edu/map/?warren) 101B
+**Office Hours (Optional)**: Wednesday 9AM-10AM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 126 and Thursday 5PM-7PM in [Warren](https://www.berkeley.edu/map/?warren) 101B-B
 
 The full schedule is available on the [Schedule](https://data6.org/su24/schedule/) page.
 
@@ -77,7 +77,7 @@ Part of making sure that we're providing the best learning experience for you is
 All of the course components (lectures, labs, discussions, homeworks, office hours, and quizzes/exams) are designed to provide valuable learning experiences and help you master core concepts in data science and computing.      
 
 ### Lecture
-There will be four days for lectures per week. In lecture, we’ll introduce you to new ideas and concepts in programming and data science. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. In the event that you have to miss a lecture, let us know via email and you can catch up by watching the lecture recording later.
+There will be four days for lectures per week. In lecture, we’ll introduce you to new ideas and concepts in programming and data science. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. In the event that you have to miss a lecture, let us know via email.
 
 During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions **Quick Checks**. They serve two purposes:
 * For us to gauge how well the class understands the material we’re currently covering
@@ -93,9 +93,7 @@ There are (usually) two lab sections per week that follow immediately after the 
 Lab notebooks are also great opportunities to work on problems with your peers. The hope is that by participating and collaborating during labs, you will be able to better understand the concepts and finish your homework more quickly. **Discussing questions and approaches to problems with classmates is highly encouraged**, but please note that you must always write your own answers and code in your jupyter notebooks, both on labs and homeworks.
 
 ### Discussion
-Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/su24/staff/#undergraduate-student-instructors-ugsis). In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you might be asked to complete some short prep work consisting of a few short readings. We will posts the readings on the course website at the beginning of the week.
-
-**Participation during discussion (and other parts of the course) is part of your grade.** We hope to have you drive our discussions, so we encourage you to ask questions, raise new points, or make connections to your own experiences.
+Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/su24/staff/#undergraduate-student-instructors-ugsis). In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you will be asked to complete some short prep work consisting of a few short readings. We will posts the readings on the course website at the beginning of the week. It is important to come prepared by completing the readings as we hope to have you drive our discussions. We encourage you to ask questions, raise new points, connect to past readings, and make connections to your own experiences.
 
 Sometimes, discussion topics will include content covering sensitive issues, like racial bias in algorithms or the implications of data-driven policing and sentencing decisions. These issues are important to discuss because they are real-world consequences of data science and algorithms. Part of being a good data scientist is understanding the impact of your work, and working to mitigate the disparate impacts that data science might have on different populations of people. We always welcome feedback on how we approach and talk about these topics as instructors.
 
@@ -106,7 +104,7 @@ Homeworks will consist mainly of programming problems that challenge you to appl
 
 Homeworks, like all course materials, can be accessed by clicking on the appropriate link on the course website. Clicking on a link to a homework will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you’re done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to [Gradescope](https://www.gradescope.com/courses/800533) so that we can grade it. We will go over this process in more detail in lab.
 
-There are 5 homework assignments, which correspond to roughly one per week. In general, homework assignments will be released on Thursday afternoon and will be due the following Thursday at 11 PM. See the [Policies](#policies-) section for our extensions and late submissions policy, as well as the homework drop policy.
+There are 4 homework assignments, which correspond to roughly one per week. In general, homework assignments will be released on Thursday afternoon and will be due the following Thursday at 11 PM. See the [Policies](#policies-) section for our extensions and late submissions policy, as well as the homework drop policy.
 
 Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable forms of collaboration.
 
@@ -166,7 +164,7 @@ Here's how we will calculate your final grade:
 | Final Exam | 20% | In-Class on 8/9 |
 
 ### Participation
-Your participation in the course is important both for your learning and that of your peers. In order to incentivize your active participation throughout the summer, the “Participation” category of your final grade is worth 15%. This part of your grade will be determined as follows:
+Your participation in the course is important both for your learning and that of your peers. In order to incentivize your active participation throughout the summer, the “Participation” category of your final grade is worth 5%. This part of your grade will be determined as follows:
 
 * 2.5% of your overall grade (one half of your participation category) will consist of in-class **Quick Checks**, graded on completion (no drops).
 * 2.5% of your overall grade (one half of your participation category) will consist of the weekly surveys 
