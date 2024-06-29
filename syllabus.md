@@ -45,11 +45,11 @@ This class serves a different purpose than several other classes that may sound 
 * [**CS 10**](https://cs10.org/sp24/): CS 10 (The Beauty and Joy of Computing) is a similar class to Data 6 in that it is intended as an introduction to computing that assumes no prior experience with programming. However, CS 10 focuses less on Python and data science, and more on abstract ideas in computer science. It is a fantastic alternative (or complement) to Data 6.
 * [**CS 61A**](https://cs61a.org/) and [**CS 88**](https://cs88-website.github.io/sp24/): Both CS 61A (Structure and Interpretation of Computer Programs) and CS 88 (Computational Structures in Data Science) also teach Python, but serve a slightly different purpose than Data 6 — namely, these courses are designed to introduce students to computer science, not to computing *in* data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. These courses are also substantially more fast-paced than Data 6, so they are excellent courses to take after Data 6 and/or Data 8.
 
-Starting in Summer 2022, we rearranged the order of some Data 6 topics to more gradually ramp up to more advanced concepts and give you the tools to work with real-world data earlier on in the semester. This new ordering means that some of the lectures will be out of sync with the ordering of materials from previous iterations of the course. The ordering of content for this summer will be very similar to the Summer 2022 version of the course. If you want to review material from previous semesters, just keep in mind that you may not have learned certain concepts yet, and that’s perfectly ok.
+Starting in Summer 2022, we rearranged the order of some Data 6 topics to more gradually ramp up to more advanced concepts and give you the tools to work with real-world data earlier on in the semester. In Summer 2024 we are slightly adjusting some of the course materials to provide more of an emphasis of the impact of data science in the Social Sciences. This new ordering means that some of the lectures will be out of sync with the ordering of materials from previous iterations of the course. The ordering of content for this summer will be very similar to the Summer 2023 version of the course. If you want to review material from previous semesters, just keep in mind that you may not have learned certain concepts yet, and that’s perfectly ok.
 
 The rough topic breakdown for this summer is as follows:
 * Week 1: Introduction to Python and Jupyter Notebooks
-* Week 2: Data Visualization
+* Week 2: Data Visualization & the Social Sciences
 * Week 3: Working with real-world tabular data using the `datascience` Python library
 * Week 4: Python Functions and Control
 * Week 5: More Python (and more real-world applications)
@@ -88,9 +88,13 @@ During each lecture, there will be a few points at which we stop and ask you to 
 In some lecture notebooks, we will post optional practice problems. These are not required, but we recommend that you complete them.
 
 ### Lab
-There are (usually) two lab sections per week that follow immediately after the Tuesday and Thursday lectures. In lab, we’ll spend the first ~10 minutes going over some demos that are relevant to that week’s material. You’ll spend the remaining ~40 minutes working on the lab notebook that is available on the course website. Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. While working on lab notebooks is required, **the notebooks themselves are not graded** — so don’t worry if you don’t finish the full notebook by the end of the lab.
+There are (usually) two lab sections per week that follow immediately after the Tuesday and Thursday lectures. In lab, we’ll spend the first ~10 minutes going over some demos that are relevant to that week’s material. You’ll spend the remaining ~40 minutes working on the lab notebook that is available on the course website. Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. While working on lab notebooks is required, **the notebooks themselves are graded on progress** — so don’t worry if you don’t finish the full notebook by the end of the lab. Labs will be due one day after the lab section.
 
 Lab notebooks are also great opportunities to work on problems with your peers. The hope is that by participating and collaborating during labs, you will be able to better understand the concepts and finish your homework more quickly. **Discussing questions and approaches to problems with classmates is highly encouraged**, but please note that you must always write your own answers and code in your jupyter notebooks, both on labs and homeworks.
+
+### Readings
+
+Reading assignments will be released on Monday and due at the end of your discussion on Friday's at 12:00pm. The reading assignments are meant to be reflective in nature and designed to compliment the content covered each week in lecture with a focus on ethical and social issues. While the assignment will be due at the end of discussion the readings are expected to be completed prior to discussion every week.
 
 ### Discussion
 Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/su24/staff/#undergraduate-student-instructors-ugsis). In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you will be asked to complete some short prep work consisting of a few short readings. We will posts the readings on the course website at the beginning of the week. It is important to come prepared by completing the readings as we hope to have you drive our discussions. We encourage you to ask questions, raise new points, connect to past readings, and make connections to your own experiences.
@@ -107,6 +111,9 @@ Homeworks, like all course materials, can be accessed by clicking on the appropr
 There are 4 homework assignments, which correspond to roughly one per week. In general, homework assignments will be released on Thursday afternoon and will be due the following Thursday at 11 PM. See the [Policies](#policies-) section for our extensions and late submissions policy, as well as the homework drop policy.
 
 Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable forms of collaboration.
+
+### Project
+You can the final project to be like a more in-depth homework assignment that allows more room for the type of exploration you would do as a data scientist in the real world! More details to come later in the semester.
 
 ### Office Hours and Ed
 In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](https://www.data6.org/su24/schedule/) for more details about office hours.
@@ -127,7 +134,7 @@ We will post more details about quizzes and exams on Ed.
 
 ## Communication	&#x1F4AC;
 
-This class **does not** use bCourses (Canvas) — all of the materials and assignments for the class can be found on the Data 6 website.
+This class **does not** use bCourses (Canvas) except for posting readings — all other materials and assignments for the class can be found on the Data 6 website.
 
 For class communication, we will be using Ed Discussion (or simply “Ed,” as we will call it), the campus’ discussion platform. Ed is where you will see announcements from course staff, ask questions about course material, and get help from staff and other students on assignments and concepts. Ed allows students to respond to questions from other students, so we hope you will help out your classmates by responding to questions you know the answer to, or asking questions about things you’re confused about. It’s likely that other students have many of the same questions as you! Please review the Ed etiquette guidelines before posting on Ed.
 
@@ -191,7 +198,9 @@ If you require assignment extensions as a DSP accommodations, please see the DSP
 ### Academic Honesty
 This may be the first class you take at UC Berkeley, or the first college class you have ever taken — we know that taking your first class can be stressful. But the main point of this class (and of data science in general) is to try things out and learn from your mistakes, not necessarily to get everything right on the first try. This class is designed to encourage you to learn through exploration, so we hope you focus on learning skills that you might use later, instead of focusing on getting a good grade.
 
-Data science is a collaborative activity. As such, we encourage you to discuss homework and lab assignments at a high level with other students. With that said, you must write all code and solutions individually in your own words. **Rather than copying someone else's work, ask for help.** You are not alone in this course! We're here to help you succeed, and if you invest the time to learn the materal and complete the assignments, you won't need to copy any answers (taken from CS 61A). If you use code you found online, please cite it in a comment and briefly explain what the code does.
+Data science is a collaborative activity. As such, we encourage you to discuss homework and lab assignments at a high level with other students. With that said, you must write all code and solutions individually in your own words. **Rather than copying someone else's work, ask for help.** You are not alone in this course! We're here to help you succeed, and if you invest the time to learn the materal and complete the assignments, you won't need to copy any answers (taken from CS 61A). If you use code you found online, please cite it in a comment and briefly explain what the code does. That said, you are not permitted to turn in answers or code that you have obtained from any generative AI tools, including but not limited to ChatGPT. Not only does such copying count as academic misconduct, but it also circumvents the pedagogical goals of an assignment. You must solve problems with the resources made available in the course. You should never look at or have solutions in your possession from another student or another semester. (taken from Data 8)
+
+
 
 ### A Note on Letter Grades
 *The following is adapted from Data 6 Summer 2021 and from [CSE 160](https://courses.cs.washington.edu/courses/cse160/20au/syllabus/index.html#curve) at the University of Washington.*
@@ -226,9 +235,9 @@ Here are some links to campus resources that may also be helpful:
 
 ## Acknowledgements 🙏
 
-The Summer 2023 version of Data 6 is based on the Summer 2022 version of Data 6—taught by James Weichert and Will Furtado; [Data 94](http://data94.org/), created and taught by [Suraj Rampure](https://rampure.org/) in Spring 2021 at UC Berkeley; and the Summer 2021 version of Data 6, taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on [Data 8](https://data8.org/) at UC Berkeley.
+The Summer 2024 version of Data 6 is based on the Summer 2023 version of Data 6-taught by James Weichert and Jonathan Ferrari, the Summer 2022 version of Data 6—taught by James Weichert and Will Furtado; [Data 94](http://data94.org/), created and taught by [Suraj Rampure](https://rampure.org/) in Spring 2021 at UC Berkeley; and the Summer 2021 version of Data 6, taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on [Data 8](https://data8.org/) at UC Berkeley.
 
-The Summer 2022 and 2023 content and assignments have been updated by UC Berkeley Professors [Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html) and [Deborah Nolan](https://statistics.berkeley.edu/people/deborah-nolan) in collaboration with faculty at Tuskegee University and with help from Will Furtado, Kevin Miao, and James Weichert.
+The Summer 2022 and 2023 content and assignments have been updated by UC Berkeley Professors [Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html) and [Deborah Nolan](https://statistics.berkeley.edu/people/deborah-nolan) in collaboration with faculty at Tuskegee University and with help from Will Furtado, Kevin Miao, and James Weichert. Additionally, the Summer 2024 assignments have been updated through collaboration between many faculty and student researchers at UC Merced, UC Berkeley, Tuskegee University, and Laney College.
 
 When creating Data 6, we've referred to the materials of several other courses:
 
