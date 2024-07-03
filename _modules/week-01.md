@@ -29,8 +29,7 @@ Jul 3
 : **5**{: .label} NumPy, Indexing, Working with Data
   : [Slides](https://docs.google.com/presentation/d/1FxgMB5lupH-lk5Ude7jKimOgi8DMiwKqvsr7eARW8C0/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec05%2Flec05.ipynb) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec05%2Flec05-blank.ipynb)
 : *Optional Reading:* [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)
-: **Homework 1**{: .label .label-homework} Introduction to Python &nbsp;**Due Jul 11 @ 11:00PM**
-<!-- [](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw01%2Fhw01.ipynb)  --> 
+: **Homework 1**{: .label .label-homework} [Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main) &nbsp;**Due Jul 11 @ 11:00PM**
 : **Survey**{: .label .label-survey} [Weekly Survey 1](https://forms.gle/CYedeiMH3nNizCWr8) &nbsp;**Due Jul 11 @ 11:00PM**
 
 Jul 4
