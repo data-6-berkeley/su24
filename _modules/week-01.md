@@ -12,7 +12,7 @@ Jul 1
 : *Optional Reading:* [CIT 1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)
 : **Survey**{: .label .label-survey} [Welcome Survey](https://forms.gle/xnsdLifJwTCU19kw9) &nbsp; **Due Jul 1 @ 11:00PM**
 : **Reading**{: .label .label-reading} [Weekly Reading 1](https://bcourses.berkeley.edu/courses/1535590/files) &nbsp;**Due July 5 @ 12:00PM**
-  : [Assignment](https://docs.google.com/document/d/16cbsVKO6sFQrD_vptXmVLDqsl2m-3CnCgugjGdxL4RU/edit?usp=sharing) &#8226;
+  : [Assignment](https://docs.google.com/document/d/16cbsVKO6sFQrD_vptXmVLDqsl2m-3CnCgugjGdxL4RU/edit?usp=sharing) &nbsp;
 
 
 Jul 2
