@@ -70,7 +70,7 @@ In the function above, `my_function` is the name of the function, which takes on
 
 | **Function** | **Description** | **Input** | **Output** |
 | `Table()` | Creates an empty table, usually to extend with data | None | An empty **Table** |
-| `Table().read_table(filename)` | Create a table from a data file. | **String**: the name of the file | | 
+| `Table().read_table(filename)` | Create a table from a data file | **string**: the name of the file | | 
 | `tbl.with_column(name, values)` or `tbl.with_columns(n1, v1, n2, v2, ...)` | Adds an extra column onto `tbl` with the label `name` and `values` as the column values | 1. **string**: name of the new column <br> 2. **array**: values in the column | **Table**: a copy of the original table with the new column(s) |
 | `tbl.column(col)` | Returns the values in a column in `tbl` | **string** or **int**: the column name or index | **array**: the values in that column |
 | `tbl.num_rows` | Compute the number of rows in `tbl` | None | **int**: the number of rows in the table |
