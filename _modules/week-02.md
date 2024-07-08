@@ -8,8 +8,9 @@ Jul 8
 : **6**{: .label} Introduction to Social Science Research
   : [Slides](https://docs.google.com/presentation/d/1-tjwBPnlf4WbCu5WOXQfaE8qNNwBUQm7VKHh1oyRNnI/edit?usp=sharing) <!-- &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec06%2Flec06.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec06%2Flec06-blank.ipynb) -->
 : **7**{: .label} Introduction to Visualization
-: [Slides](https://docs.google.com/presentation/d/1b9u67ioGRpVOI8UUbVO9b3BFALsXDw5vo2dzIhvHDTI/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1b9u67ioGRpVOI8UUbVO9b3BFALsXDw5vo2dzIhvHDTI/edit?usp=sharing)
 : **Reading**{: .label .label-reading} Weekly Reading 2 &nbsp;**Due July 12 @ 12:00PM**
+  : [Text](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3) &#8226; [Assignment](https://docs.google.com/document/d/1b4mfcolUVPYY1ukvheEwd6zfppBa5p0Diqfw2WnRyfY/edit?usp=sharing)
 
 Jul 9
 : **8**{: .label} Table Fundamentals 
