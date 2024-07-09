@@ -29,7 +29,7 @@ Jul 10
 Jul 11
 : **11**{: .label} Bickel Case Study
   <!-- : [Slides]() &#8226; [Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec11%2Flec11.ipynb) &#8226; [Blank Code](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec11%2Flec11-blank.ipynb) -->
-: **Lab 3**{: .label .label-lab} Visualization Methods &nbsp;**Due Jul 12 @ 11:00PM** 
+: **Lab 3**{: .label .label-lab} Visualization Methods &nbsp;**Due Jul 14 @ 11:00PM** 
 <!-- [](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab03%2Flab03.ipynb) -->
 : **Homework 2**{: .label .label-homework} Table Methods and Data Visualization &nbsp;**Due Jul 18 @ 11:00PM** 
 <!-- [](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw02%2Fhw02.ipynb) -->
