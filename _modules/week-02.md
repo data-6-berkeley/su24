@@ -38,5 +38,5 @@ Jul 11
 
 Jul 12
 : **Discussion 2**{: .label .label-discussion} Data Humanism in Visualization
-  <!-- : [Worksheet](https://data6.org/su24/assignments/disc02.pdf) &#8226; [Solutions](./assignments/disc02-sols.pdf) -->
+  : [Worksheet](https://data6.org/su24/assignments/disc02.pdf) &#8226; <!--[Solutions](./assignments/disc02-sols.pdf) -->
 : *Recommended Reading:* ["Applying Racial Equity Awareness in Data Visualization"](https://data6.org/su22/assignments/RacialEquityinDataViz.pdf)
