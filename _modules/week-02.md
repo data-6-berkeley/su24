@@ -11,18 +11,18 @@ Jul 8
   : [Slides](https://docs.google.com/presentation/d/1b9u67ioGRpVOI8UUbVO9b3BFALsXDw5vo2dzIhvHDTI/edit?usp=sharing)
 : **Reading**{: .label .label-reading} Weekly Reading 2 &nbsp;**Due July 12 @ 12:00PM**
   : [Text](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3) &#8226; [Assignment](https://docs.google.com/document/d/1b4mfcolUVPYY1ukvheEwd6zfppBa5p0Diqfw2WnRyfY/edit?usp=sharing)
+:*Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)
 
 Jul 9
 : **8**{: .label} Table Fundamentals 
   : [Slides](https://docs.google.com/presentation/d/1K7aKBqMY4Rhj2ULYhw6EPYbPa6H5hupDbATgK75_08E/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec08%2Flec08-su24.ipynb&branch=main)
-: *Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)
+: *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
 : **Lab 2**{: .label .label-lab} [Table Methods and Data Manipulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab02%2Flab02.ipynb&branch=main) &nbsp;**Due Jul 10 @ 11:00PM** 
 
 Jul 10
-: **9**{: .label} Variables in Social Science
+: **9**{: .label} Visualizing Categorical Variables
   : [Slides](https://docs.google.com/presentation/d/1ahoM9eT_kL_oRMAZD6rbaKx8y6kyyahRh-v0j-gPfXs/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09-blank.ipynb&branch=main)
-: *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
-: **10**{: .label} Visualizing Two Variables
+: **10**{: .label} Visualizing Numerical Variables
   : [Slides](https://docs.google.com/presentation/d/1cYg5r8Q5jm8vfXMLGviU4yOO--0Zb1NA2LG98htpS58/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec09.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec09-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
 
