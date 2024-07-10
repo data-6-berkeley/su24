@@ -20,10 +20,10 @@ Jul 9
 
 Jul 10
 : **9**{: .label} Variables in Social Science
-  <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09-blank.ipynb&branch=main) -->
+  : [Slides](https://docs.google.com/presentation/d/1ahoM9eT_kL_oRMAZD6rbaKx8y6kyyahRh-v0j-gPfXs/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec09%2Flec09-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
 : **10**{: .label} Visualizing Two Variables
-  <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec10.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec10-blank.ipynb&branch=main) -->
+  : [Slides](https://docs.google.com/presentation/d/1cYg5r8Q5jm8vfXMLGviU4yOO--0Zb1NA2LG98htpS58/edit?usp=sharing)
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
 
 Jul 11
