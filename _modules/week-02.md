@@ -32,8 +32,8 @@ Jul 11
 : **11**{: .label} Bickel Case Study
   : [Slides](https://docs.google.com/presentation/d/1NWqEL6mpQ8oL-wVBzON5uYC2taKCkOzZZCjkR3bysxw/edit?usp=sharing)
 : **Lab 3**{: .label .label-lab} [Visualization Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2F%2Flab%2Flab03%2Flab03.ipynb&branch=main) &nbsp;**Due Jul 14 @ 11:00PM** 
-: **Homework 2**{: .label .label-homework} Table Methods and Data Visualization &nbsp;**Due Jul 18 @ 11:00PM** 
-: **Survey**{: .label .label-survey} Weekly Survey 2 &nbsp;**Due Jul 18 @ 11:00PM**
+: **Homework 2**{: .label .label-homework} [Table Methods and Data Visualization](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main) &nbsp;**Due Jul 18 @ 11:00PM** 
+: **Survey**{: .label .label-survey} [Weekly Survey 2](https://forms.gle/k8zujDHhn4QubUuU9) &nbsp;**Due Jul 18 @ 11:00PM**
 
 
 Jul 12
