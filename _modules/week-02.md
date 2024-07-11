@@ -27,9 +27,9 @@ Jul 10
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
 
 Jul 11
-: **10.5**{: .label} [Visualizing Two Numerical Variables](https://docs.google.com/presentation/d/1IEUFl5ryGANSDB809Oqi6-ZQft4sIUbT97ljTgzK5dU/edit?usp=sharing)
+: **10.5**{: .label} Visualizing Two Numerical Variables
   : [Slides](https://docs.google.com/presentation/d/1IEUFl5ryGANSDB809Oqi6-ZQft4sIUbT97ljTgzK5dU/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec10.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec10%2Flec10-blank.ipynb&branch=main)
-: **11**{: .label} [Bickel Case Study](https://docs.google.com/presentation/d/1NWqEL6mpQ8oL-wVBzON5uYC2taKCkOzZZCjkR3bysxw/edit?usp=sharing)
+: **11**{: .label} Bickel Case Study
   : [Slides](https://docs.google.com/presentation/d/1NWqEL6mpQ8oL-wVBzON5uYC2taKCkOzZZCjkR3bysxw/edit?usp=sharing)
 : **Lab 3**{: .label .label-lab} [Visualization Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2F%2Flab%2Flab03%2Flab03.ipynb&branch=main) &nbsp;**Due Jul 14 @ 11:00PM** 
 : **Homework 2**{: .label .label-homework} Table Methods and Data Visualization &nbsp;**Due Jul 18 @ 11:00PM** 
