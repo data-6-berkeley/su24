@@ -5,14 +5,14 @@ status: Active
 ---
 
 Jul 15
+: **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
 : **12**{: .label} Sorting and Filtering Rows
   <!-- : [Slides]() &#8226; [Code]() &#8226; [Blank Code]() -->
 : *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)
-: **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
 : **Reading**{: .label .label-reading} Weekly Reading 3 &nbsp;**Due July 19 @ 12:00PM**
 
 Jul 16
-: **13**{: .label} UC Riverside Case Study
+: **13**{: .label} Row Methods, Joining Tables
   <!-- : [Slides]() &#8226; [Code]() &#8226; [Blank Code]() -->
 : *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Lab 4**{: .label .label-lab} Tables &nbsp;**Due Jul 17 @ 11:00PM**
