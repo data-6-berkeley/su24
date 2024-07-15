@@ -7,7 +7,7 @@ status: Active
 Jul 15
 : **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
 : **12**{: .label} Sorting and Filtering Rows
-  <!-- : [Slides]() &#8226; [Code]() &#8226; [Blank Code]() -->
+  <!-- : [Slides](https://docs.google.com/presentation/d/1gcP5hQYuOf8gPsJNuJg9XKuk6NJvg_6T79Db7Z06WS8/edit#slide=id.g13c51d5693a_0_51) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec11%2Flec11.ipynb) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec11%2Flec11-blank.ipynb) -->
 : *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)
 : **Reading**{: .label .label-reading} Weekly Reading 3 &nbsp;**Due July 19 @ 12:00PM**
 
