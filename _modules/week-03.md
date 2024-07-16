@@ -13,9 +13,9 @@ Jul 15
 
 Jul 16
 : **13**{: .label} Row Methods, Joining Tables
-  <!-- : [Slides]() &#8226; [Code]() &#8226; [Blank Code]() -->
+  : [Slides](https://docs.google.com/presentation/d/145yim4J_9U7XQ1M30JOqF2TKENd4cElD8Dp65H4Ys4U/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flectures%2Flec13%2Flec13-su24.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flectures%2Flec13%2Flec13-su24-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
-: **Lab 4**{: .label .label-lab} Tables &nbsp;**Due Jul 17 @ 11:00PM**
+: **Lab 4**{: .label .label-lab} [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab04%2Flab04.ipynb&branch=main) &nbsp;**Due Jul 17 @ 11:00PM**
 
 Jul 17
 : **14**{: .label} Functions
