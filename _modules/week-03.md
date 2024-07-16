@@ -22,7 +22,7 @@ Jul 17
 : **14**{: .label} Functions
   <!-- : [Slides]() &#8226; [Code]() -->
 : *Optional Reading:* [CIT 8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html), [PPDS 2.5](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#functions)
-: **15**{: .label} Group, Pivot, Join
+: **15**{: .label} Group, Pivot
   <!-- : [Slides]() &#8226; [Code]() &#8226; [Blank Code]() -->
 : *Optional Reading:* [CIT 7.1.3](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html?highlight=group#grouping-categorical-data), [CIT 8.3.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html?highlight=pivot#pivot-tables-rearranging-the-output-of-group), [Table Function Visualizer](http://data8.org/interactive_table_functions/)
 
