@@ -20,10 +20,10 @@ Jul 16
 
 Jul 17
 : **14**{: .label} Functions
-  <!-- : [Slides]() &#8226; [Code]() -->
+  : [Slides](https://docs.google.com/presentation/d/1MTJGaiGfPuXA7YKrcuW-TE6l_nYiKxRmR2dQ_5mZ5VY/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec13%2Flec13.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec13%2Flec13-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html), [PPDS 2.5](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#functions)
 : **15**{: .label} Group, Pivot
-  <!-- : [Slides]() &#8226; [Code]() &#8226; [Blank Code]() -->
+  : [Slides](https://docs.google.com/presentation/d/1Kp4_W8uVfr4IRsdfMJXCYSsxw16n3BJ_Laly7bZNzEM/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec14%2Flec14.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec14%2Flec14-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 7.1.3](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html?highlight=group#grouping-categorical-data), [CIT 8.3.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html?highlight=pivot#pivot-tables-rearranging-the-output-of-group), [Table Function Visualizer](http://data8.org/interactive_table_functions/)
 
 Jul 18
