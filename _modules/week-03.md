@@ -28,9 +28,9 @@ Jul 17
 
 Jul 18
 : **16**{: .label}  Applying
-  <!-- : [Slides]() &#8226; [Code]() &#8226; [Blank Code]() -->
+  : [Slides](https://docs.google.com/presentation/d/1RwzOJiU3oSzudMMcTxECHVdFd3Gb165x991zCoQIKg8/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec15%2Flec15.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec15%2Flec15-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
-: **Lab 5**{: .label .label-lab} More Table Methods &nbsp;**Due Jul 19 @ 11:00PM**
+: **Lab 5**{: .label .label-lab} [More Table Method](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab05%2Flab05.ipynb&branch=main) &nbsp;**Due Jul 19 @ 11:00PM**
 : **Homework 3**{: .label .label-homework} Advanced Table Methods &nbsp;**Due Jul 25 @ 11:00PM** 
 : **Survey**{: .label .label-survey} Weekly Survey 3 &nbsp;**Due Jul 25 @ 11:00PM**
 

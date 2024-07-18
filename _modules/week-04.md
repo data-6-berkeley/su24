@@ -12,6 +12,7 @@ Jul 22
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec17%2Flec17.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec17%2Flec17-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [CP 1.5](http://composingprograms.com/pages/15-control.html)
 : **Reading**{: .label .label-reading} Weekly Reading 4 &nbsp;**Due July 26 @ 12:00PM**
+  : [Text](https://bcourses.berkeley.edu/courses/1535590/files)
 
 Jul 23
 : **19**{: .label} Iteration
