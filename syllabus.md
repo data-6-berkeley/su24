@@ -5,7 +5,6 @@ nav_order: 2
 description: >-
     Course policies and information.
 ---
-<b style="font-size:40px;color:maroon;">This page is a work in progress</b>
 
 # Syllabus &#x1F4D6;
 {:.no_toc}
