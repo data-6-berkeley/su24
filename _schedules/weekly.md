@@ -63,10 +63,10 @@ schedule:
         location: Warren 101B
   - name: Friday
     events:
-      - name: Coffee Chats w/ Edwin
+      - name: Coffee Chats
         start: 9:00 AM
         end: 10:00 AM
-        location: Caffe Strada
+        location: Caffe Strada (Edwin)
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
