@@ -18,7 +18,7 @@ Jul 23
 : **19**{: .label} Iteration
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec18%2Flec18.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec18%2Flec18-blank.ipynb&branch=main) -->
 : *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
-: **Lab 6**{: .label .label-lab} Functions and Control &nbsp;**Due July 24 @ 11:00PM**<!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab06%2Flab06.ipynb) -->
+: **Lab 6**{: .label .label-lab} Functions and Control &nbsp;**Due July 24 @ 11:00PM**<!-- (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab06%2Flab06.ipynb&branch=main) -->
 
 Jul 24
 : **20**{: .label} More Iteration
@@ -30,7 +30,7 @@ Jul 25
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20-blank.ipynb&branch=main) -->
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} Iteration &nbsp;**Due July 28 @ 11:00PM**
-<!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flab%2Flab07%2Flab07.ipynb) -->
+<!-- (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab07%2Flab07.ipynb&branch=main) -->
 : **Homework 4**{: .label .label-homework} Control, Iteration, and Strings &nbsp;**Due Aug 1 @ 11:00PM**
 <!-- (https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw04%2Fhw04.ipynb)  -->
 : **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 1 @ 11:00PM**
