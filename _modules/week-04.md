@@ -30,7 +30,7 @@ Jul 25
   : [Slides](https://docs.google.com/presentation/d/1p5xWdl3GVLdHgAV8MQ6aD2GTP_wunNHxKIg6RZr3ifk/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20-blank.ipynb&branch=main)
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} [Iteration](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab07%2Flab07.ipynb&branch=main) &nbsp;**Due July 28 @ 11:00PM**
-: **Homework 4**{: .label .label-homework} [Control, Iteration, and Strings]((https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main)) &nbsp;**Due Aug 1 @ 11:00PM**
+: **Homework 4**{: .label .label-homework} [Control, Iteration, and Strings]((https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main)) &nbsp;**Due Aug 1 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 1 @ 11:00PM**
 
 Jul 26
