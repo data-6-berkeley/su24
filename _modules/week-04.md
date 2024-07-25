@@ -31,7 +31,7 @@ Jul 25
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} [Iteration](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab07%2Flab07.ipynb&branch=main) &nbsp;**Due July 28 @ 11:00PM**
 : **Homework 4**{: .label .label-homework} [Control, Iteration, and Strings]((https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main)) &nbsp;**Due Aug 1 @ 11:00PM**
-: **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 1 @ 11:00PM**
+: **Survey**{: .label .label-survey} [Weekly Survey 4](https://forms.gle/XrdeLd9WwTvpEyGEA) &nbsp;**Due Aug 1 @ 11:00PM**
 
 Jul 26
 : **Discussion 4**{: .label .label-discussion} Privacy
