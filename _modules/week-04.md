@@ -27,7 +27,7 @@ Jul 24
 
 Jul 25
 : **21**{: .label} Maps
-  <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20-blank.ipynb&branch=main) -->
+  : [Slides](https://docs.google.com/presentation/d/1p5xWdl3GVLdHgAV8MQ6aD2GTP_wunNHxKIg6RZr3ifk/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec20%2Flec20-blank.ipynb&branch=main)
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} Iteration &nbsp;**Due July 28 @ 11:00PM**
 <!-- (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab07%2Flab07.ipynb&branch=main) -->
@@ -37,4 +37,4 @@ Jul 25
 
 Jul 26
 : **Discussion 4**{: .label .label-discussion} Privacy
-  <!-- : [Worksheet](https://data6.org/su24/assignments/disc04.pdf) &#8226; [Solutions](./assignments/disc04-sols.pdf) -->
+  : [Worksheet](https://data6.org/su24/assignments/disc04.pdf) &#8226; <!--[Solutions](./assignments/disc04-sols.pdf) -->
