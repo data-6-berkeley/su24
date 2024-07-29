@@ -5,9 +5,9 @@ status: Active
 ---
 
 Aug 5
-: **26**{: .label} Sampling and Strings
+: **26**{: .label} TBD
   <!-- : [Slides]() &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec24%2Flec24.ipynb) -->
-: **27**{: .label} Thinking About Ethics
+: **27**{: .label} TBD
 
 Aug 6
 : TBD
