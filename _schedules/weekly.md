@@ -60,7 +60,7 @@ schedule:
       - name: Office Hours
         start: 5:00 PM
         end: 7:00 PM
-        location: Warren 101B
+        location: SLC
   - name: Friday
     events:
       - name: Coffee Chats
