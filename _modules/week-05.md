@@ -15,8 +15,7 @@ Jul 30
   : [Slides](https://docs.google.com/presentation/d/1yhg0XH-ygaDGjmdfo5TdtpYFz6m4IEwNfvL1slBsFTg/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec21%2Flec21.ipynb&branch=main)
 : *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 : **Lab 8**{: .label .label-lab} [Randomness and Simulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Flab%2Flab08%2Flab08.ipynb&branch=main) &nbsp;**Due July 31 @ 11:00PM**
-: **Final Project**{: .label .label-homework} 
-<!-- [Using Dictionaries](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Fproject%2Fproject1%2Fproject1.ipynb&branch=main) &nbsp;**Due Aug 7 @ 11:00PM** -->
+: **Final Project**{: .label .label-homework} [Using Dictionaries](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&urlpath=tree%2Fmaterials-su24%2Fproject%2Fproject1%2Fproject1.ipynb&branch=main) &nbsp;**Due Aug 7 @ 11:00PM**
 
 Jul 31
 : **24**{: .label} TBD
