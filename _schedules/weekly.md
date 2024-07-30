@@ -66,7 +66,7 @@ schedule:
       - name: Coffee Chats
         start: 9:00 AM
         end: 10:00 AM
-        location: Caffe Strada (Edwin)
+        location: Caffe Strada
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
