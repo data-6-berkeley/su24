@@ -25,7 +25,7 @@ Jul 31
 
 
 Aug 1
-: **25**{: .label} TBD
+: **26**{: .label} LLMs
 : **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 7 @ 11:00PM**
 
 Aug 2
