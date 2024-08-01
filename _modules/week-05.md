@@ -26,6 +26,7 @@ Jul 31
 
 Aug 1
 : **26**{: .label} LLMs
+  : [Slides](https://docs.google.com/presentation/d/1RSfICal0_mBNnbedj9wwcFJqoz-tMB4NnS9Mf3RiH00/edit?usp=sharing)
 : **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 7 @ 11:00PM**
 
 Aug 2
