@@ -5,7 +5,7 @@ status: Active
 ---
 
 Aug 5
-:  **27**{: .label} [Guest Lecture - Human Contexts and Ethics](https://data6.org/su23/assignments/hce-lecture.pdf)
+:  **27**{: .label} [Guest Lecture - Human Contexts and Ethics](https://data6.org/su24/assignments/hce-lecture.pdf)
 : _Prep Work:_ **Explore the [Bay Area Air Quality Management District](https://www.baaqmd.gov/public-data-center) Website**
 
 Aug 6
