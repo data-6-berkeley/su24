@@ -26,8 +26,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `np.mean(arr)` or `np.average(arr)` | Calculates the average value of `arr` | An **array** of numbers | **float**: array average |
 | `np.arange(stop)`, `np.arange(start, stop)`, or `np.arange(start, stop, step)` | Creates an array of  numbers starting at `start`, going up in increments of `step` (default is 1), and going up to but excluding `stop`. | **int** or **float** | **array** |
 | `np.append(arr, item)` | Appends `item` to the end of `arr`. Does not modify the original array. | 1. **array** to append to <br> 2. item to append (any type) | **array**: a new array with the appended item |
-| `arr.item(i)` | Returns the i-th item in an array (remember Python indices start at 0!)
-`. | **int** | Depends on array type|
+| `arr.item(i)` | Returns the i-th item in an array (remember Python indices start at 0!) | **int** | Depends on array type|
 
 ### Tables and Table Methods
 
@@ -44,7 +43,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `tbl.group(column, function)` | Groups rows in `tbl` by unique values in a column. Values in the other columns are aggregated by count (by default) or the optional argument `function`. | 1. **string**: column on which to group <br> 2. (Optional) **Function**: function to aggregate values in cells (defaults to counting rows) | **Table** a new groupped table |
 | `tbl.pivot(col1, col2, values, collect)` | Creates a pivot table where each unique value in `col1` has its own column and each unique value in `col2` has its own row. Counts or aggregates values from a third column, collected with some function. | 1. **string**: column in `tbl` for the pivot table columns <br> 2. **string**: column in `tbl` for the pivot table rows <br> 3. (Optional) **string**: column in `tbl` for the pivot table values <br> 4. (Optional) **Function**: how the values are collected | **Table**: a new pivot table |
 | `tblA.join(colA, tblB, colB)` | Generate a table with the columns of `tblA` and `tblB`, containing rows for all values in `colA` and `colB` that appear in `tblA` and `tblB`, respectively. | 1. **string**: name of column in `tblA` <br> 2. **Table**: the other table <br> 3. (Optional) **string**: the name of the shared column in `tblB` | **Table**: a new combined table |
-|`tbl.sample(k, with_replacement, weights) | A new table where n rows are randomly sampled from the original table; by default, n=tbl.num_rows. Default is with replacement. For sampling without replacement, use argument with_replacement=False. For a non-uniform sample, provide a third argument weights=distribution where distribution is an array or list containing the probability of each row.|**Table**|**Table**: A new table with k randomly sampled rows.|
+|`tbl.sample(k, with_replacement, weights)` | A new table where n rows are randomly sampled from the original table; by default, n=tbl.num_rows. Default is with replacement. For sampling without replacement, use argument with_replacement=False. For a non-uniform sample, provide a third argument weights=distribution where distribution is an array or list containing the probability of each row.|**Table**|**Table**: A new table with k randomly sampled rows.|
 
 ### Visualization Functions
 
