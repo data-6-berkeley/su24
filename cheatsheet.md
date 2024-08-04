@@ -72,7 +72,7 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 | `for <element> in <sequence>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<for body>` | Repeats code in `<for body>` for each `<element>` in `<sequence>` (array, string, etc.), assigning `<element>` to each value in `<sequence>` one at a time |
 | `while <boolean expression>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<while_body>`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Repeats code in `<while body>` while `<boolean expression>` is `True` |
 
-### Comparison and Logical Operators
+### Comparison and Boolean Operators
 
 | **Name** | **Symbol** | **Usage** |
 | Equal | == | x == y |
