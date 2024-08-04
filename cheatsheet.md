@@ -72,7 +72,16 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 | `for <element> in <sequence>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<for body>` | Repeats code in `<for body>` for each `<element>` in `<sequence>` (array, string, etc.), assigning `<element>` to each value in `<sequence>` one at a time |
 | `while <boolean expression>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<while_body>`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Repeats code in `<while body>` while `<boolean expression>` is `True` |
 
-### Boolean operators
+### Boolean Operators and Expressions
+
+| **Name** | **Symbol** | **Usage** |
+| Equal | == | x == y |
+| Not equal | != | x != y |
+| Greater than | > | x > y |
+| Greater than or equal to | >= | x >= y |
+| Less than | < | x < y |
+| Less than or equal to | <= | x <= y |
+
 
 ### `np.random` Functions
 
@@ -88,5 +97,5 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 | `upper`| Converts all lowercase characters in a string into uppercase characters and returns it. | `s.upper()` | 'JUNIOR12' |
 | `lower`| Converts all uppercase characters in a string into lowercase characters and returns it. | `s.lower()` | 'junior12' |
 | `replace`| Replaces each matching occurrence of a substring with another string. | `s.replace('i', 'iii')` | 'JuNiiiOR12' |
-| `split`| Breaks down a string into a list of substrings using a chosen separator. | `'Edwin is awesome'.split(' ')` | ['Edwin', 'is', 'awesome']|
+| `split`| Breaks down a string into a list of substrings using a chosen separator. | `'Edwin is awesome'.split()` | ['Edwin', 'is', 'awesome']|
 | `join`| Returns a string by joining all the elements of an iterable (list, string, array), separated by the given separator. | `' '.join(['Edwin', 'is', 'awesome'])` | 'Edwin is awesome' |
