@@ -72,6 +72,21 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 | `for <element> in <sequence>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<for body>` | Repeats code in `<for body>` for each `<element>` in `<sequence>` (array, string, etc.), assigning `<element>` to each value in `<sequence>` one at a time |
 | `while <boolean expression>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<while_body>`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Repeats code in `<while body>` while `<boolean expression>` is `True` |
 
+### Comparison and Boolean Operators
+
+| **Name** | **Symbol** | **Usage** |
+| Equal | == | x == y |
+| Not equal | != | x != y |
+| Greater than | > | x > y |
+| Greater than or equal to | >= | x >= y |
+| Less than | < | x < y |
+| Less than or equal to | <= | x <= y |
+
+| **Symbol** | **Usage** | **Value** |
+| `and` | a `and` b | True if both a and b are True, False otherwise |
+| `or` | a `or` b | True if at least one of a and b are True, False otherwise |
+| `not` | `not` a | True if a is False, False if a is True |
+
 ### `np.random` Functions
 
 | **Function** | **Description** | **Input** | **Output** |
