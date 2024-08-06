@@ -10,7 +10,7 @@ Aug 5
 
 Aug 6
 : **28**{: .label} Fun with Plotly
-  <!-- : [Slides](https://docs.google.com/presentation/d/1vm-tU-27NUchYEkSM7K8m1ObQ4ymxhOzzNhs4rOQvaA/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec28%2Flec28.ipynb) -->
+  : [Slides](https://docs.google.com/presentation/d/1fKN4H5roqjDaDXqLj0cWieaUetjhH0j7wb2diKdYMiY/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su24&branch=main&urlpath=tree%2Fmaterials-su24%2Flectures%2Flec28%2Flec28.ipynb)
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 
 Aug 7
