@@ -19,7 +19,7 @@ Aug 7
   
 Aug 8
 : **29**{: .label} Conclusion and Next 
-  :[Slides](https://docs.google.com/presentation/d/14yn7LWs7GjjCashSTUIsEsB89jNGU6rESR8wmZ8hBpI/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/14yn7LWs7GjjCashSTUIsEsB89jNGU6rESR8wmZ8hBpI/edit?usp=sharing)
 
 Aug 9
 : **Exam**{: .label .label-exam} Final Exam
