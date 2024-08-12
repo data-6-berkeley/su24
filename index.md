@@ -15,16 +15,17 @@ seo:
 UC Berkeley, Summer 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
-{: .mb-2 }
-**Instructors:** Atticus Ginsborg, Edwin Vargas Navarro
-{: .mb-0 .fs-5 .text-grey-dk-000 }
+<button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
-<!-- {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-<div class="role">
-  {% for staffer in instructors %}
-  {{ staffer }}
-  {% endfor %}
-</div> -->
+[Ed](https://edstem.org/us/courses/60192/){: .btn .btn-ed}
+[bCourses](https://bcourses.berkeley.edu/courses/1535590){: .btn .btn-bcourses}
+[Gradescope](https://www.gradescope.com/courses/800533){: .btn .btn-gradescope}
+[Textbook](https://data6.org/su24/resources/#supplemental-readings){: .btn .btn-textbook}
+[Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
+
+{: .mb-2 }
+**Instructors:**
+{: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'InstructorFront' %}
 
@@ -33,14 +34,6 @@ UC Berkeley, Summer 2024
 {{ staffer }}
 {% endfor %}
 </div>
-
-<button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
-
-[Ed](https://edstem.org/us/courses/60192/){: .btn .btn-ed}
-[bCourses](https://bcourses.berkeley.edu/courses/1535590){: .btn .btn-bcourses}
-[Gradescope](https://www.gradescope.com/courses/800533){: .btn .btn-gradescope}
-[Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
-[Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 ## Announcements
 
