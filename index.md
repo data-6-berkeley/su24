@@ -19,20 +19,20 @@ UC Berkeley, Summer 2024
 **Instructors:** Atticus Ginsborg, Edwin Vargas Navarro
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
-<!-- <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button> -->
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
+</div>
+
+<button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
 [Ed](https://edstem.org/us/courses/60192/){: .btn .btn-ed}
 [bCourses](https://bcourses.berkeley.edu/courses/1535590){: .btn .btn-bcourses}
 [Gradescope](https://www.gradescope.com/courses/800533){: .btn .btn-gradescope}
 [Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
-
-<!--{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-<div class="role">
-  {% for staffer in instructors %}
-  {{ staffer }}
-  {% endfor %}
-</div>-->
 
 ## Announcements
 
