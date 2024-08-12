@@ -55,6 +55,14 @@ UC Berkeley, Summer 2024
   {{ module }}
 {% endfor %}
 
+<!--DARKMODE UNDER CONSTRUCTION-->
+<br />
+
+
+
+<p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://forms.gle/64xx2B1Y7K32bNhR9" class="yellow-link">here</a></p>
+
+
 <script src="assets/darkmode.js"></script>
 <script>
   const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
