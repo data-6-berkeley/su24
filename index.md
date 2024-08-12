@@ -19,11 +19,19 @@ UC Berkeley, Summer 2024
 **Instructors:** Atticus Ginsborg, Edwin Vargas Navarro
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+<!-- {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
   {{ staffer }}
   {% endfor %}
+</div> -->
+
+{% assign instructors = site.staffers | where: 'role', 'InstructorFront' %}
+
+<div class="role flex">
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 </div>
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
