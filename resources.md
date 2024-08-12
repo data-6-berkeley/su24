@@ -48,6 +48,15 @@ All of these textbooks cover the fundamentals of Python, but in slightly differe
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) (FDV) is the online version of
 Claus Wilke's book that covers the basics of how to tell informative and ethical stories with data visualizations.
 
+## Past Exams
+Exams from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` library and Data 6 curriculum has changed over time.
+
+| Semester | Final |
+| -- | -- |
+| Summer 2024 | [Exam](https://data6.org/su24/exams/su24-final.pdf) [Solutions](https://data6.org/su24/exams/su24-final-sol.pdf) |
+| Summer 2023 | [Exam](https://data6.org/su24/exams/su23-final.pdf)|
+| Summer 2022 | [Exam](https://data6.org/su24/exams/su22-final.pdf) [Solutions](https://data6.org/su24/exams/su22-final-sol.pdf) |
+
 ## Other
 
 * The Data 8 [Table Function Visualizer](http://data8.org/interactive_table_functions/) is a great tool to see how `.group` and `.pivot` work.
