@@ -916,35 +916,6 @@ code {
 }
 */
 
-.dm-btn::selection {
-  background-color: #183385 !important;
-}
-
-.dm-btn {
-  color: #264caf !important;
-}
-
-.dm-btn:hover {
-  color: #2869e6 !important;
-}
-
-.dm-btn:focus:hover {
-  color: #2869e6 !important;
-}
-
-.search-icon::selection {
-  background-color: #2c84fa !important;
-}
-
-.dm-text {
-  color: white;
-  font-size: 0.7em;
-}
-
-.dm-text a {
-  color: white !important;
-}
-
 @mixin btn-color($text-color, $bg-color) {
   color: $text-color !important;
   background-color: $bg-color !important;
