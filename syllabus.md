@@ -240,7 +240,7 @@ The Summer 2022 and 2023 content and assignments have been updated by UC Berkele
 
 When creating Data 6, we've referred to the materials of several other courses:
 
-- [Data 8](https://data8.org), [CS 10](http://cs10.org), and [CS 61A](http://cs61a.org) at UC Berkeley
+- [Data 8](http://data8.org), [CS 10](http://cs10.org), and [CS 61A](http://cs61a.org) at UC Berkeley
 - [CS 106A](http://cs106a.stanford.edu) at Stanford
 - [CSE 160](https://courses.cs.washington.edu/courses/cse160/) at the University of Washington
 
